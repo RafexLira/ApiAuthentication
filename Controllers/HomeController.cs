@@ -5,7 +5,9 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using Refit;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -24,29 +26,31 @@ namespace ApiProtheusConsumer.Controllers
             _naturezaRepo = naturezaRepo;
         }
 
-        [Authorize]
-        [HttpGet("/ObterDados")]
-        public IActionResult ObterDados()
-        {
-            var token = Request.Headers["Authorization"].ToString().Replace("Bearer", "");          
-
-            var x = _naturezaRepo.ObterNatureza();
-            return Ok(x);
-        }
-
         [HttpPost("/Authentication")]
         public IActionResult Authentication(Usuario usuario)
         {
-            if (usuario.Nome == "Rafael" && usuario.Senha == "123456" && usuario.Role == "Usuario")
+            if (usuario.Nome == "rafael.lira" && usuario.Senha == "%rftq830%" && usuario.Role == "adm")
             {
-                return Ok(_naturezaRepo.GerarToken(usuario.Nome));
+                var token = _naturezaRepo.GerarToken(usuario.Nome);
+
+               // var x = JsonConvert.SerializeObject(token, Formatting.Indented);                            
+
+                return Ok(token);
             }
             return Ok("Usuario não encontrado!");
         }
+               
+        [HttpGet("/ObterDados")]
+        public IActionResult ObterDados([Header("Authorization")] string token)
+        {
+           // token = Request.Headers["Authorization"].ToString().Replace("Bearer", "");          
+            var naturezaReturn = _naturezaRepo.ObterNatureza();          
 
-        [Authorize]
+            return Ok(naturezaReturn);
+        }
+       
         [HttpPost("/ObterDados/{codigo}")]
-        public IActionResult ObterDados(string codigo)
+        public IActionResult ObterDadosCodigo(string codigo)
         {
             return Ok(_naturezaRepo.ObterNatureza(codigo));
         }

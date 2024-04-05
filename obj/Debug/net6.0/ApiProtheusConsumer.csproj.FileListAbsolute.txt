@@ -50,3 +50,5 @@ C:\Users\rafael.silva\source\repos\ApiProtheusConsumer\obj\Debug\net6.0\refint\A
 C:\Users\rafael.silva\source\repos\ApiProtheusConsumer\obj\Debug\net6.0\ApiProtheusConsumer.pdb
 C:\Users\rafael.silva\source\repos\ApiProtheusConsumer\obj\Debug\net6.0\ApiProtheusConsumer.genruntimeconfig.cache
 C:\Users\rafael.silva\source\repos\ApiProtheusConsumer\obj\Debug\net6.0\ref\ApiProtheusConsumer.dll
+C:\Users\rafael.silva\source\repos\ApiProtheusConsumer\bin\Debug\net6.0\Refit.dll
+C:\Users\rafael.silva\source\repos\ApiProtheusConsumer\bin\Debug\net6.0\System.Net.Http.Json.dll

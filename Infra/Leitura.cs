@@ -1,15 +1,18 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace ApiProtheusConsumer.Infra
 {
     public static class Leitura
     {
-        public static JObject LerArquivoJson(string caminho)
+        public static List<NaturezaApiResponse> LerArquivoJson(string pathJson)
         {
-            using (StreamReader reader = new StreamReader(caminho))
+            using (StreamReader reader = new StreamReader(pathJson))
             {
-                string json = reader.ReadToEnd();
-                return JObject.Parse(json);
+                string naturezaJson = reader.ReadToEnd();
+
+               return JsonConvert.DeserializeObject<List<NaturezaApiResponse>>(naturezaJson);
+                
             }
         }
     }

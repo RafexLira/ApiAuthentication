@@ -1,416 +1,2495 @@
-{
-  "2.27": "INVEST. INSTALACOES",
-  "2.27.001": "INVEST. INSTALACOES",
-  "2.05.07": "+ MIXAGEM E POSTAGEM ECT",
-  "2.01.001": "13 SALARIO",
-  "2.05.02": "ACABAMENTO GRAFICO",
-  "2.03.001": "ACESSORIOS TI",
-  "2.06.003": "ADAPTACAO E EDITORACAO",
-  "2.03.002": "ADIANTAMENTO - MAC GARDENS",
-  "2.03.003": "ADIANTAMENTO - SACM",
-  "2.03.048": "ADIANTAMENTOS DIVERSOS",
-  "2.08.006": "AGENC. E INTERMED. DE NEGOCIOS",
-  "2.03.004": "AGUA E ESGOTO",
-  "2.01.002": "ALIMENTACAO COM EMPREGADOS",
-  "2.07.009": "ALUGUEL - RECEITA",
-  "2.07.003": "ALUGUEL PESSOA FISICA",
-  "2.07.008": "ALUGUEL PESSOA JURIDICA",
-  "2.07.007": "ALUGUEL SEM IMPOSTOS",
-  "2.03.005": "ANALISE E PESQUISA FINANCEIRA",
-  "2.06.021": "ANALISES E PESQUISAS",
-  "2.24.001": "APLICACOES FINANCEIRAS",
-  "2.24": "APLICAÇÕES FINANCEIRAS",
-  "2.01.003": "ASEDR",
-  "2.01.004": "ASSISTENCIA MEDICA",
-  "2.03.006": "AUDITORIA",
-  "2.01.005": "AUXILIO CRECHE",
-  "2.01.006": "AUXILIO EDUCACAO",
-  "2.08.001": "BANNER / IMPRESSOES (DANFE)",
-  "2.08.014": "BANNER E IMPRESSOS ( NFS )",
-  "2.06.022": "BATIDA DE EMENDAS",
-  "2.06.023": "BATIDA EMENDAS + DECALQUE",
-  "2.03.049": "BENS MOVEIS NAO ATIVAVEIS",
-  "2.16.001": "BIENAL",
-  "2.16.003": "BIENAL COM RET ISS",
-  "2.16.004": "BIENAL IRRF",
-  "2.16.002": "BIENAL SEM RETENCAO",
-  "3.15": "BONIFICACAO COMERCIAL",
-  "3.17": "BONIFICACAO EDITORIAL",
-  "3.13": "BONIFICACAO IMPRENSA",
-  "3.18": "BONIFICACAO INFLUENCIADORES",
-  "3.11": "BONIFICACAO MKT E EVENTOS",
-  "3.16": "BONIFICACAO PRESIDENCIA",
-  "3.19": "BONIFICACAO SAC",
-  "CARTAO": "CARTAO",
-  "2.03.007": "CARTORIOS",
-  "2.03.008": "CERTIDOES FEDERAL/ESTADUAL/MUN",
-  "2.03.009": "CERTIFICACOES",
-  "CHEQUE": "CHEQUE",
-  "CIDE  8741": "CIDE - REMESSAS AO EXTERIOR -",
-  "3.04": "CLUBE DA CARINA",
-  "2.13.001": "COFINS",
-  "COFINS": "COFINS",
-  "2.14.003": "COMISSAO COM RET ISS",
-  "2.14.004": "COMISSAO IR/ISS/PIS/COFINS/CSL",
-  "2.14.001": "COMISSOES DE VENDEDORES",
-  "COMISSOES": "COMISSOES DE VENDEDORES",
-  "2.14.002": "COMISSOES SEM RETENCOES",
-  "2.06.024": "COMPUTACAO GRAFICA E DESIGN",
-  "2.03.060": "CONDOMINIO",
-  "2.03.010": "CONDUCOES / TAXI",
-  "2.03.011": "CONSERVACAO E LIMPEZA",
-  "2.03.012": "CONSULTORIA",
-  "2.03.013": "CONTRIB. SINDICAL - PATRONAL",
-  "CSLL": "CONTRIB.S/LUCRO LIQUIDO",
-  "INSS": "CONTRIB.S/LUCRO LIQUIDO",
-  "2.01.007": "CONTRIBUICAO SINDICAL",
-  "CONVENIO": "CONVENIO",
-  "2.06.009": "CONVERSAO P/EPUB",
-  "2.05.06": "CONVERSAP PARA DOCX E EPUB3",
-  "2.03.014": "COPA / COZINHA / REFEITORIO",
-  "2.03.015": "CORREIOS",
-  "2.06.015": "COTEJO",
-  "2.06.014": "COTEJO + BATIDA EMENDAS",
-  "CREDITO": "CREDITO",
-  "2.13.002": "CSLL",
-  "2.06.013": "DECALQUE",
-  "1.01.008": "DESCONTO POR BONUS PERFORMANCE",
-  "1.01.007": "DESCONTO POR DESAGIO",
-  "1.01.006": "DESCONTO POR REBATE",
-  "1.01.005": "DESCONTO POR VPC",
-  "2.15.001": "DESPESAS BANCARIAS",
-  "2.02.005": "DESPESAS FINANCEIRA D.A.",
-  "2.06.026": "DESPESAS FINANCEIRAS CAMBIOS",
-  "DEV./TROCA": "DEV./TROCA",
-  "2.06.004": "DIAGRAMACAO",
-  "2.06.016": "DIGITACAO",
-  "2.06.017": "DIGITALIZACAO",
-  "DINHEIRO": "DINHEIRO",
-  "3.10": "DIRECT CATAVENTO",
-  "2.02.001": "DIREITOS AUTORAIS EXTERIOR",
-  "2.02.004": "DIREITOS AUTORAIS NAC PF ISENT",
-  "2.02.002": "DIREITOS AUTORAIS NACIONAL PF",
-  "2.02.003": "DIREITOS AUTORAIS NACIONAL PJ",
-  "2.030.65": "DPVAT SEGURO",
-  "2.06.025": "DUPLA PARA EBOOK",
-  "DESP BANC": "Despesas Bancárias - CNAB",
-  "2.03.016": "ENERGIA ELETRICA",
-  "2.06.018": "ENSAIO DE LIVROS",
-  "2.20.001": "EQUIPAMENTOS TI/HARDWARES",
-  "2.01.008": "ESTAGIARIOS",
-  "2.01.020": "EXAMES PCMSO",
-  "TROCO": "Entrada de troco no Caixa",
-  "3.05": "FEIRAS",
-  "2.08.002": "FEIRAS / EVENTOS DE LANCAMENTO",
-  "2.01.009": "FERIAS",
-  "2.01.010": "FGTS",
-  "FINAN": "FINAN",
-  "2.01.011": "FOLHA DE PAGAMENTO",
-  "2.04.001": "FOLHAS DE MAQUINA",
-  "2.05.03": "FOTOLITO",
-  "2.07.001": "FRETES",
-  "2.03.017": "GAS",
-  "2.03.059": "GASOLINA/ALCOOL -COMBUSTIVEL",
-  "2.05.04": "GRAVACAO DE CLICHE",
-  "2.06.028": "GRAVACAO DE SONS",
-  "2.13.003": "ICMS",
-  "2.06.006": "ILUSTRACAO / FOTO / IMAGEM",
-  "2.05.12": "IMAGEM",
-  "2.13.004": "IMPOSTO DE IMPORTACAO",
-  "IRF": "IMPOSTO RENDA RETIDO NA FONTE",
-  "ISS": "IMPOSTO SOBRE SERVICOS",
-  "2.05.10": "IMPRESSAO GRAFICA CAMERON",
-  "2.06.096": "INDICE ONOMASTICO",
-  "2.06.019": "INDICE REMISSIVO",
-  "3.20": "INFL. LITERARIOS",
-  "2.01.012": "INSS",
-  "2.20": "INVEST. INFORMÁTICA",
-  "2.21": "INVEST. MÁQ. E EQUIP.",
-  "2.22": "INVEST. MÓVEIS",
-  "2.15.002": "IOF",
-  "2.06.027": "IOF CAMBIO",
-  "2.02.006": "IOF CAMBIO D.A.",
-  "2.13.006": "IPTU",
-  "2.13.007": "IPVA",
-  "2.13.008": "IRPJ",
-  "2.13.009": "IRRF",
-  "2.01.098": "IRRF / INSS",
-  "2.03.074": "IRRF E ISS",
-  "2.03.070": "ISBN",
-  "2.13.010": "ISS",
-  "2.25.001": "JUROS E ENCARGOS",
-  "2.03.018": "KILOMETRAGEM/ESTACIO/PEDAGIO",
-  "2.03.019": "LANCHES E REFEICOES",
-  "2.06.002": "LAYOUT / ARTE FINAL / CAPA",
-  "2.20.005": "LICENCAS",
-  "2.03.020": "LICENCAS/REGISTROS TI",
-  "2.03.021": "LIVROS/JORNAIS/REVISTAS",
-  "2.03.054": "LOCACAO SEM IMPOSTOS",
-  "2.03.022": "LOCACOES",
-  "3.07": "LOGISTICA CLIENTES DIVERSOS",
-  "2.03.024": "MANUT. VEICULOS / COMBUSTIVEL",
-  "2.03.023": "MANUTENCAO DE BENS",
-  "2.10.001": "MANUTENCAO DE MAQ. E EQUIP.",
-  "2.03.025": "MANUTENCAO PREDIAL E INSTALACO",
-  "2.03.056": "MANUTENCAO SEM RETENCOES",
-  "2.03.026": "MANUTENCAO/ATUALIZACAO TI",
-  "2.20.002": "MAQ. E EQUIP. DE INFORMATICA",
-  "2.21.001": "MAQUINAS E EQUIPAMENTOS",
-  "3.02": "MARKETPLACE AMAZON",
-  "3.06": "MARKETPLACE B2W",
-  "3.08": "MARKETPLACE MAGALU",
-  "3.01": "MARKETPLACE RECORD",
-  "2.11.001": "MATERIAL DE EMBALAGENS",
-  "2.03.027": "MATERIAL DE ESCRITORIO",
-  "2.03.028": "MATERIAL DE EXPEDIENTE",
-  "2.03.071": "MATERIAL P/MANUTENCAO E REPAR0",
-  "2.07.005": "MATERIAL PARA LOGISTICA",
-  "2.10.008": "MATERIAL PARA MANUTENCAO",
-  "2.03.058": "MATERIAL PARA OBRA",
-  "2.08.003": "MATERIAL PROMOCIONAL / BRINDES",
-  "2.09.001": "MATERIAS-PRIMAS",
-  "2.03.029": "MEDICINA E SEGURANÇA DO TRABAL",
-  "2.03.030": "MENSAL. E CONTRIB. ASSOC. LITE",
-  "3.03": "MKT DIRETO",
-  "3.14": "MKTPLACE ESTANTE",
-  "2.22.001": "MOVEIS E UTENSILIOS",
-  "NATMOVR": "Movimento bancário Receber",
-  "NATMOVP": "Movimento bancário pagar",
-  "NOTA DE CR": "NOTA DE CREDITO",
-  "NDF": "NOTA DE DEBITO AO FORNECEDOR",
-  "2.08.010": "NOTA DE DEBITO CLIENTE",
-  "NAT_FK": "Natureza FKS",
-  "3.09": "OPERACAO CULTURA",
-  "OUTROS": "OUTROS",
-  "2.19": "OUTROS PAGAMENTOS",
-  "2.19.001": "OUTROS PAGAMENTOS",
-  "1.05": "OUTROS RECEBIMENTOS",
-  "1.05.001": "OUTROS RECEBIMENTOS",
-  "2.17.004": "PAGAMENTO BERTRAND",
-  "2.17.003": "PAGAMENTO BEST SELLER",
-  "2.17.007": "PAGAMENTO CAMERON",
-  "PAGDIGITAL": "PAGAMENTO DIGITAL",
-  "2.17.001": "PAGAMENTO DIST. RECORD",
-  "2.17.009": "PAGAMENTO DLD",
-  "2.17.002": "PAGAMENTO EDIT. RECORD",
-  "2.17.008": "PAGAMENTO HARLEQUIM",
-  "2.17.005": "PAGAMENTO JOSE OLYMPIO",
-  "2.17.010": "PAGAMENTO PAZ E TERRA",
-  "2.17.006": "PAGAMENTO VERUS",
-  "2.17": "PAGAMENTOS INTERCOMPANY",
-  "2.03.031": "PAGAMENTOS JUDICIAIS",
-  "2.14": "PAGTO. COMISSÕES",
-  "2.06": "PAGTO. CUSTOS EDITORIAIS",
-  "2.23": "PAGTO. DE DIVIDENDOS",
-  "2.08": "PAGTO. DE MARKETING",
-  "2.03": "PAGTO. DESP. GERAIS",
-  "2.15": "PAGTO. DESPESAS BANCÁRIAS",
-  "2.25": "PAGTO. DESPESAS FINANCEIRAS",
-  "2.02": "PAGTO. DIREITOS AUTORAIS",
-  "2.23.004": "PAGTO. DIVIDENDOS BERTRAND",
-  "2.23.003": "PAGTO. DIVIDENDOS BEST SELLER",
-  "2.23.007": "PAGTO. DIVIDENDOS CAMERON",
-  "2.23.001": "PAGTO. DIVIDENDOS DIST. RECORD",
-  "2.23.009": "PAGTO. DIVIDENDOS DLD",
-  "2.23.002": "PAGTO. DIVIDENDOS EDIT. RECORD",
-  "2.23.008": "PAGTO. DIVIDENDOS HARLEQUIM",
-  "2.23.005": "PAGTO. DIVIDENDOS JOSE OLYMPIO",
-  "2.23.010": "PAGTO. DIVIDENDOS MAC GARDENS",
-  "2.23.011": "PAGTO. DIVIDENDOS SACM",
-  "2.23.006": "PAGTO. DIVIDENDOS VERUS",
-  "2.01": "PAGTO. FOLHA+ENCARGOS+BENEFÍCI",
-  "2.07": "PAGTO. FRETES",
-  "2.16": "PAGTO. GASTOS COM BIENAL",
-  "2.05": "PAGTO. GRÁFICA",
-  "2.13": "PAGTO. IMPOSTOS",
-  "2.10": "PAGTO. MANUT. GRÁFICA",
-  "2.11": "PAGTO. MATERIAL DE EMBALAGENS",
-  "2.09": "PAGTO. OUTROS INSUMOS",
-  "2.04": "PAGTO. PAPEL",
-  "2.04.002": "PAPEL DE IMPRESSAO",
-  "2.06.011": "PARECER LITERARIO",
-  "2.01.013": "PENSAO ALIMENTICIA",
-  "2.06.032": "PESQUISA",
-  "2.06.033": "PESQUISA DE MERCADO E OPNIAO P",
-  "2.13.011": "PIS",
-  "PIS": "PIS",
-  "PIX": "PIX",
-  "2.01.014": "PLR - PARTIC.LUCROS",
-  "2.06.010": "PREPARACAO DE ORIGINAIS",
-  "2.08.004": "PRODUCAO DE VIDEO",
-  "2.06.007": "PROJETO GRAFICO",
-  "2.06.020": "PROVA DIGITAL",
-  "2.08.005": "PUBLICIDADE",
-  "1.08": "RECEB. DIVIDENDOS",
-  "1.08.004": "RECEB. DIVIDENDOS BERTRAND",
-  "1.08.003": "RECEB. DIVIDENDOS BEST SELLER",
-  "1.08.007": "RECEB. DIVIDENDOS CAMERON",
-  "1.08.001": "RECEB. DIVIDENDOS DIST. RECORD",
-  "1.08.009": "RECEB. DIVIDENDOS DLD",
-  "1.08.002": "RECEB. DIVIDENDOS EDIT. RECORD",
-  "1.08.011": "RECEB. DIVIDENDOS GALERA",
-  "1.08.008": "RECEB. DIVIDENDOS HARLEQUIM",
-  "1.08.005": "RECEB. DIVIDENDOS JOSE OLYMPIO",
-  "1.08.010": "RECEB. DIVIDENDOS PAZ E TERRA",
-  "1.08.006": "RECEB. DIVIDENDOS VERUS",
-  "1.02": "RECEB. GOVERNO",
-  "1.01": "RECEB. MERCADO",
-  "RECEBIMENT": "RECEBIMENTO",
-  "1.03.004": "RECEBIMENTO BERTRAND",
-  "1.03.003": "RECEBIMENTO BEST SELLER",
-  "1.03.007": "RECEBIMENTO CAMERON",
-  "1.03.001": "RECEBIMENTO DIST. RECORD",
-  "1.03.009": "RECEBIMENTO DLD",
-  "1.03.002": "RECEBIMENTO EDIT. RECORD",
-  "1.03.015": "RECEBIMENTO GALERA",
-  "1.03.008": "RECEBIMENTO HARLEQUIM",
-  "1.03": "RECEBIMENTO INTERCOMPANY",
-  "1.03.005": "RECEBIMENTO JOSE OLYMPIO",
-  "1.03.010": "RECEBIMENTO PAZ E TERRA",
-  "1.03.006": "RECEBIMENTO VERUS",
-  "1.03.011": "RECEITA PROVENIENTE DE ALUGUEL",
-  "1.06": "RECEITAS FINANCEIRAS",
-  "1.06.001": "RECEITAS FINANCEIRAS",
-  "2.06.008": "REDACAO / PRODUCAO DE TEXTO",
-  "2.03.500": "REEMBOLSO DE DESPESAS",
-  "2.03.032": "REGISTRO DE DOMINIO",
-  "2.06.005": "RELEITURA",
-  "1.07": "RESGATE DE APLICACAO",
-  "1.07.001": "RESGATE DE APLICACAO",
-  "INSS": "RETENCAO P/ SEGURIDADE SOCIAL",
-  "2.06.012": "REVISAO TECNICA",
-  "2.01.015": "SEGURO DE VIDA",
-  "2.03.066": "SEGURO DPVAT",
-  "2.03.033": "SEGURO PATRIMONIAL",
-  "2.01.016": "SENAI",
-  "2.03.052": "SERV IR/INSS/PIS/COF/CSLL/ISS",
-  "2.06.099": "SERV. PJ SEM IMPOSTO",
-  "2.03.034": "SERV. REMOCAO DE RESIDUOS",
-  "2.03.072": "SERVICO  IR E INSS",
-  "2.08.011": "SERVICO C/ RET IR E ISS - MARK",
-  "2.03.051": "SERVICO COM INSS",
-  "2.08.009": "SERVICO COM RET ISS MARKETING",
-  "2.07.010": "SERVICO COM RETENCAO",
-  "2.07.002": "SERVICO DE ARMAZENAMENTO",
-  "2.03.065": "SERVICO DE LIMPESA SEM RETENCA",
-  "2.07.006": "SERVICO DE SHIRINK",
-  "2.07.004": "SERVICO DE TRANSPORTE",
-  "2.03.055": "SERVICO INFORMATICA",
-  "2.03.050": "SERVICO IR/ ISS/ PIS COFI CSLL",
-  "2.01.100": "SERVICO IR/PIS/COFINS/CSLL",
-  "2.07.011": "SERVICO IRRF",
-  "2.10.009": "SERVICO IRRF",
-  "2.05.11": "SERVICO IRRF",
-  "2.03.073": "SERVICO IRRF",
-  "2.01.099": "SERVICO IRRF",
-  "2.08.013": "SERVICO IRRF E INSS",
-  "2.08.012": "SERVICO IRRF; CSLL/PIS/COFINS",
-  "2.10.006": "SERVICO PESSOA FISICA-IR / ISS",
-  "2.06.031": "SERVICO TECNICO E PROFISSIONAL",
-  "2.06.030": "SERVICO TECNICO PROFISSIONAL",
-  "2.10.007": "SERVICOS DE ASSESSORIA",
-  "2.03.035": "SERVICOS DE ASSIST TECNICA",
-  "2.07.009": "SERVICOS DE COLETA E ENTREGA",
-  "2.10.002": "SERVICOS DE CONSULTORIA",
-  "2.03.036": "SERVICOS DE CONSULTORIA JURIDICA",
-  "2.03.037": "SERVICOS DE CONSULTORIA TECNICA",
-  "2.10.003": "SERVICOS DE CONTABILIDADE",
-  "2.07.008": "SERVICOS DE DESPACHANTE",
-  "2.07.007": "SERVICOS DE ENTREGA",
-  "2.03.038": "SERVICOS DE EXIBICAO CINEMATOGRA",
-  "2.06.018.001": "SERVICOS DE FILMAGEM",
-  "2.03.039": "SERVICOS DE IMPRESSAO",
-  "2.06.018.002": "SERVICOS DE PRODUCAO MUSICAL",
-  "2.10.004": "SERVICOS DE SEGURANCA",
-  "2.03.040": "SERVICOS DE SEGURO",
-  "2.03.041": "SERVICOS DE TELECOMUNICACOES",
-  "2.06.017": "SERVICOS EDITORIAIS",
-  "2.03.042": "SERVICOS EXPRESSOS",
-  "2.01.017": "SESI",
-  "2.03.043": "SINALIZACAO DE EMERGENCIA",
-  "2.03.044": "SINALIZACAO INTERNA/EXTERNA",
-  "2.03.045": "SOFTWARE",
-  "2.20.003": "SOFTWARES",
-  "2.03.046": "SOFTWARES/APLICATIVOS",
-  "2.03.047": "SOFTWARES/UTILITARIOS",
-  "2.03.048": "SOFTWARES/UTILITARIOS TI",
-  "2.05.13": "STICKER",
-  "2.05.14": "STICKER ALBUM",
-  "TBI": "TAXA BANCARIA INTERNACIONAL",
-  "2.03.049": "TAXA DE ALVARA",
-  "2.03.053": "TAXA DE ASSOCIACAO/INSCRICAO",
-  "2.02.007": "TAXA DE COMISSAO",
-  "2.03.075": "TAXA DE CONDOMINIO",
-  "2.02.004": "TAXA DE DEBITO",
-  "2.03.057": "TAXA DE DESPACHO",
-  "2.02.005": "TAXA DE DOC/TED",
-  "2.03.061": "TAXA DE ESTADIA",
-  "2.03.076": "TAXA DE FUNDO FIXO",
-  "2.02.003": "TAXA DE MANUTENCAO",
-  "2.03.060": "TAXA DE MENSALIDADE",
-  "2.02.002": "TAXA DE MOVIMENTACAO",
-  "2.03.062": "TAXA DE MULTA",
-  "2.03.077": "TAXA DE OCUPACAO",
-  "2.02.008": "TAXA DE PERMANENCIA",
-  "2.03.063": "TAXA DE SERVICOS",
-  "2.02.009": "TAXA DE TRANSFERENCIA",
-  "2.03.064": "TAXA DE UTILIZACAO",
-  "2.03.066.001": "TAXA DO SISCOMEX",
-  "2.03.067": "TAXAS AEROPORTUARIAS",
-  "2.03.068": "TAXAS DE AGENCIAMENTO",
-  "2.03.069": "TAXAS DE ADMINISTRACAO",
-  "2.03.078": "TAXAS DE BOMBEIRO",
-  "2.03.079": "TAXAS DE COLETA",
-  "2.03.080": "TAXAS DE ESGOTO",
-  "2.03.081": "TAXAS DE EXAME",
-  "2.03.082": "TAXAS DE INSCRICAO",
-  "2.03.083": "TAXAS DE INSCRICAO/ANUIDADES",
-  "2.03.084": "TAXAS DE MANUTENCAO",
-  "2.03.085": "TAXAS DE PESAGEM",
-  "2.03.086": "TAXAS DE REPROGRAFIA",
-  "2.03.087": "TAXAS DE RUA",
-  "2.03.088": "TAXAS DE UTILIDADES",
-  "2.03.089": "TAXAS DIVERSAS",
-  "2.03.090": "TAXAS E SERVICOS AMBIENTAIS",
-  "2.03.091": "TAXAS GERAIS",
-  "2.03.092": "TAXAS DE COLETA/RECOLHIMENTO",
-  "2.03.093": "TAXAS DE ESGOTAMENTO",
-  "2.03.094": "TAXAS DE LIMPEZA",
-  "2.03.095": "TAXAS DE VIGILANCIA",
-  "2.03.096": "TAXAS E TARIFAS",
-  "2.03.097": "TAXAS E TARIFAS BANCARIAS",
-  "2.03.098": "TAXAS E TRIBUTOS",
-  "2.03.099": "TAXAS E TRIBUTOS PAGOS",
-  "2.03.100": "TAXAS E OUTRAS DESPESAS BANCAR",
-  "2.06.029": "TELEX",
-  "2.20.004": "TERRENOS",
-  "2.02.001": "TITULOS",
-  "2.02.010": "TITULOS E VALORES",
-  "2.01.018": "TRANSPORTE - COLETIVO",
-  "2.01.019": "TRANSPORTE - LOTACAO",
-  "2.07.003": "TRANSPORTE DE MATERIAL",
-  "2.01.021": "TREINAMENTO",
-  "2.01.022": "VALE REFEICAO",
-  "2.01.023": "VALE TRANSPORTE",
-  "VARJ": "VARA JUDICIAL",
-  "VIG": "VIGILANCIA",
-  "NOME DO ÓRGÃO": "NOME DO ÓRGÃO",
-  "2.01.021": "UNIFORME",
-  "VALE": "VALE",
-  "2.01.022": "VALE ALIMENTACAO",
-  "2.01.023": "VALE COMBUSTIVEL",
-  "2.01.018": "VALE REFEICAO",
-  "2.01.019": "VALE TRANSPORTE",
-  "1.01.009": "VENDA DE ATIVO IMOBILIZADO",
-  "1.01.001": "VENDA DE LIVROS",
-  "1.01.002": "VENDA MARKETING DIRETO",
-  "1.01.004": "VENDAS A FUNCIONARIOS",
-  "1.01.003": "VENDAS BIENAL",
-  "1.02.002": "VENDAS GOVERNO ESTADUAL",
-  "1.02.001": "VENDAS GOVERNO FEDERAL",
-  "1.02.003": "VENDAS GOVERNO MUNICIPAL",
-  "3.12": "VIA VAREJO",
-  "2.03.047": "VIAGENS E ESTADIAS",
-  "2.03.062": "XEROX / COPIAS"
+[
+  {
+    "id": 1,
+    "codigo": "2.27",
+    "natureza": "INVEST. INSTALACOES"
+  },
+  {
+    "id": 2,
+    "codigo": "2.27.001",
+    "natureza": "INVEST. INSTALACOES"
+  },
+  {
+    "id": 3,
+    "codigo": "2.05.07",
+    "natureza": "+ MIXAGEM E POSTAGEM ECT"
+  },
+  {
+    "id": 4,
+    "codigo": "2.01.001",
+    "natureza": "13 SALARIO"
+  },
+  {
+    "id": 5,
+    "codigo": "2.05.02",
+    "natureza": "ACABAMENTO GRAFICO"
+  },
+  {
+    "id": 6,
+    "codigo": "2.03.001",
+    "natureza": "ACESSORIOS TI"
+  },
+  {
+    "id": 7,
+    "codigo": "2.06.003",
+    "natureza": "ADAPTACAO E EDITORACAO"
+  },
+  {
+    "id": 8,
+    "codigo": "2.03.002",
+    "natureza": "ADIANTAMENTO - MAC GARDENS"
+  },
+  {
+    "id": 9,
+    "codigo": "2.03.003",
+    "natureza": "ADIANTAMENTO - SACM"
+  },
+  {
+    "id": 10,
+    "codigo": "2.03.048",
+    "natureza": "ADIANTAMENTOS DIVERSOS"
+  },
+  {
+    "id": 11,
+    "codigo": "2.08.006",
+    "natureza": "AGENC. E INTERMED. DE NEGOCIOS"
+  },
+  {
+    "id": 12,
+    "codigo": "2.03.004",
+    "natureza": "AGUA E ESGOTO"
+  },
+  {
+    "id": 13,
+    "codigo": "2.01.002",
+    "natureza": "ALIMENTACAO COM EMPREGADOS"
+  },
+  {
+    "id": 14,
+    "codigo": "2.07.009",
+    "natureza": "ALUGUEL - RECEITA"
+  },
+  {
+    "id": 15,
+    "codigo": "2.07.003",
+    "natureza": "ALUGUEL PESSOA FISICA"
+  },
+  {
+    "id": 16,
+    "codigo": "2.07.008",
+    "natureza": "ALUGUEL PESSOA JURIDICA"
+  },
+  {
+    "id": 17,
+    "codigo": "2.07.007",
+    "natureza": "ALUGUEL SEM IMPOSTOS"
+  },
+  {
+    "id": 18,
+    "codigo": "2.03.005",
+    "natureza": "ANALISE E PESQUISA FINANCEIRA"
+  },
+  {
+    "id": 19,
+    "codigo": "2.06.021",
+    "natureza": "ANALISES E PESQUISAS"
+  },
+  {
+    "id": 20,
+    "codigo": "2.24.001",
+    "natureza": "APLICACOES FINANCEIRAS"
+  },
+  {
+    "id": 21,
+    "codigo": "2.24",
+    "natureza": "APLICAÇÕES FINANCEIRAS"
+  },
+  {
+    "id": 22,
+    "codigo": "2.01.003",
+    "natureza": "ASEDR"
+  },
+  {
+    "id": 23,
+    "codigo": "2.01.004",
+    "natureza": "ASSISTENCIA MEDICA"
+  },
+  {
+    "id": 24,
+    "codigo": "2.03.006",
+    "natureza": "AUDITORIA"
+  },
+  {
+    "id": 25,
+    "codigo": "2.01.005",
+    "natureza": "AUXILIO CRECHE"
+  },
+  {
+    "id": 26,
+    "codigo": "2.01.006",
+    "natureza": "AUXILIO EDUCACAO"
+  },
+  {
+    "id": 27,
+    "codigo": "2.08.001",
+    "natureza": "BANNER / IMPRESSOES (DANFE)"
+  },
+  {
+    "id": 28,
+    "codigo": "2.08.014",
+    "natureza": "BANNER E IMPRESSOS ( NFS )"
+  },
+  {
+    "id": 29,
+    "codigo": "2.06.022",
+    "natureza": "BATIDA DE EMENDAS"
+  },
+  {
+    "id": 30,
+    "codigo": "2.06.023",
+    "natureza": "BATIDA EMENDAS + DECALQUE"
+  },
+  {
+    "id": 31,
+    "codigo": "2.03.049",
+    "natureza": "BENS MOVEIS NAO ATIVAVEIS"
+  },
+  {
+    "id": 32,
+    "codigo": "2.16.001",
+    "natureza": "BIENAL"
+  },
+  {
+    "id": 33,
+    "codigo": "2.16.003",
+    "natureza": "BIENAL COM RET ISS"
+  },
+  {
+    "id": 34,
+    "codigo": "2.16.004",
+    "natureza": "BIENAL IRRF"
+  },
+  {
+    "id": 35,
+    "codigo": "2.16.002",
+    "natureza": "BIENAL SEM RETENCAO"
+  },
+  {
+    "id": 36,
+    "codigo": "3.15",
+    "natureza": "BONIFICACAO COMERCIAL"
+  },
+  {
+    "id": 37,
+    "codigo": "3.17",
+    "natureza": "BONIFICACAO EDITORIAL"
+  },
+  {
+    "id": 38,
+    "codigo": "3.13",
+    "natureza": "BONIFICACAO IMPRENSA"
+  },
+  {
+    "id": 39,
+    "codigo": "3.18",
+    "natureza": "BONIFICACAO INFLUENCIADORES"
+  },
+  {
+    "id": 40,
+    "codigo": "3.11",
+    "natureza": "BONIFICACAO MKT E EVENTOS"
+  },
+  {
+    "id": 41,
+    "codigo": "3.16",
+    "natureza": "BONIFICACAO PRESIDENCIA"
+  },
+  {
+    "id": 42,
+    "codigo": "3.19",
+    "natureza": "BONIFICACAO SAC"
+  },
+  {
+    "id": 43,
+    "codigo": "CARTAO",
+    "natureza": "CARTAO"
+  },
+  {
+    "id": 44,
+    "codigo": "2.03.007",
+    "natureza": "CARTORIOS"
+  },
+  {
+    "id": 45,
+    "codigo": "2.03.008",
+    "natureza": "CERTIDOES FEDERAL/ESTADUAL/MUN"
+  },
+  {
+    "id": 46,
+    "codigo": "2.03.009",
+    "natureza": "CERTIFICACOES"
+  },
+  {
+    "id": 47,
+    "codigo": "CHEQUE",
+    "natureza": "CHEQUE"
+  },
+  {
+    "id": 48,
+    "codigo": "CIDE  8741",
+    "natureza": "CIDE - REMESSAS AO EXTERIOR -"
+  },
+  {
+    "id": 49,
+    "codigo": "3.04",
+    "natureza": "CLUBE DA CARINA"
+  },
+  {
+    "id": 50,
+    "codigo": "2.13.001",
+    "natureza": "COFINS"
+  },
+  {
+    "id": 51,
+    "codigo": "COFINS",
+    "natureza": "COFINS"
+  },
+  {
+    "id": 52,
+    "codigo": "2.14.003",
+    "natureza": "COMISSAO COM RET ISS"
+  },
+  {
+    "id": 53,
+    "codigo": "2.14.004",
+    "natureza": "COMISSAO IR/ISS/PIS/COFINS/CSL"
+  },
+  {
+    "id": 54,
+    "codigo": "2.14.001",
+    "natureza": "COMISSOES DE VENDEDORES"
+  },
+  {
+    "id": 55,
+    "codigo": "COMISSOES",
+    "natureza": "COMISSOES DE VENDEDORES"
+  },
+  {
+    "id": 56,
+    "codigo": "2.14.002",
+    "natureza": "COMISSOES SEM RETENCOES"
+  },
+  {
+    "id": 57,
+    "codigo": "2.06.024",
+    "natureza": "COMPUTACAO GRAFICA E DESIGN"
+  },
+  {
+    "id": 58,
+    "codigo": "2.03.060",
+    "natureza": "CONDOMINIO"
+  },
+  {
+    "id": 59,
+    "codigo": "2.03.010",
+    "natureza": "CONDUCOES / TAXI"
+  },
+  {
+    "id": 60,
+    "codigo": "2.03.011",
+    "natureza": "CONSERVACAO E LIMPEZA"
+  },
+  {
+    "id": 61,
+    "codigo": "2.03.012",
+    "natureza": "CONSULTORIA"
+  },
+  {
+    "id": 62,
+    "codigo": "2.03.013",
+    "natureza": "CONTRIB. SINDICAL - PATRONAL"
+  },
+  {
+    "id": 63,
+    "codigo": "CSLL",
+    "natureza": "CONTRIB.S/LUCRO LIQUIDO"
+  },
+  {
+    "id": 64,
+    "codigo": "INSS",
+    "natureza": "CONTRIB.S/LUCRO LIQUIDO"
+  },
+  {
+    "id": 65,
+    "codigo": "2.01.007",
+    "natureza": "CONTRIBUICAO SINDICAL"
+  },
+  {
+    "id": 66,
+    "codigo": "CONVENIO",
+    "natureza": "CONVENIO"
+  },
+  {
+    "id": 67,
+    "codigo": "2.06.009",
+    "natureza": "CONVERSAO P/EPUB"
+  },
+  {
+    "id": 68,
+    "codigo": "2.05.06",
+    "natureza": "CONVERSAP PARA DOCX E EPUB3"
+  },
+  {
+    "id": 69,
+    "codigo": "2.03.014",
+    "natureza": "COPA / COZINHA / REFEITORIO"
+  },
+  {
+    "id": 70,
+    "codigo": "2.03.015",
+    "natureza": "CORREIOS"
+  },
+  {
+    "id": 71,
+    "codigo": "2.06.015",
+    "natureza": "COTEJO"
+  },
+  {
+    "id": 72,
+    "codigo": "2.06.014",
+    "natureza": "COTEJO + BATIDA EMENDAS"
+  },
+  {
+    "id": 73,
+    "codigo": "CREDITO",
+    "natureza": "CREDITO"
+  },
+  {
+    "id": 74,
+    "codigo": "2.13.002",
+    "natureza": "CSLL"
+  },
+  {
+    "id": 75,
+    "codigo": "2.06.013",
+    "natureza": "DECALQUE"
+  },
+  {
+    "id": 76,
+    "codigo": "1.01.008",
+    "natureza": "DESCONTO POR BONUS PERFORMANCE"
+  },
+  {
+    "id": 77,
+    "codigo": "1.01.007",
+    "natureza": "DESCONTO POR DESAGIO"
+  },
+  {
+    "id": 78,
+    "codigo": "1.01.006",
+    "natureza": "DESCONTO POR REBATE"
+  },
+  {
+    "id": 79,
+    "codigo": "1.01.005",
+    "natureza": "DESCONTO POR VPC"
+  },
+  {
+    "id": 80,
+    "codigo": "2.15.001",
+    "natureza": "DESPESAS BANCARIAS"
+  },
+  {
+    "id": 81,
+    "codigo": "2.02.005",
+    "natureza": "DESPESAS FINANCEIRA D.A."
+  },
+  {
+    "id": 82,
+    "codigo": "2.06.026",
+    "natureza": "DESPESAS FINANCEIRAS CAMBIOS"
+  },
+  {
+    "id": 83,
+    "codigo": "DEV./TROCA",
+    "natureza": "DEV./TROCA"
+  },
+  {
+    "id": 84,
+    "codigo": "2.06.004",
+    "natureza": "DIAGRAMACAO"
+  },
+  {
+    "id": 85,
+    "codigo": "2.06.016",
+    "natureza": "DIGITACAO"
+  },
+  {
+    "id": 86,
+    "codigo": "2.06.017",
+    "natureza": "DIGITALIZACAO"
+  },
+  {
+    "id": 87,
+    "codigo": "DINHEIRO",
+    "natureza": "DINHEIRO"
+  },
+  {
+    "id": 88,
+    "codigo": "3.10",
+    "natureza": "DIRECT CATAVENTO"
+  },
+  {
+    "id": 89,
+    "codigo": "2.02.001",
+    "natureza": "DIREITOS AUTORAIS EXTERIOR"
+  },
+  {
+    "id": 90,
+    "codigo": "2.02.004",
+    "natureza": "DIREITOS AUTORAIS NAC PF ISENT"
+  },
+  {
+    "id": 91,
+    "codigo": "2.02.002",
+    "natureza": "DIREITOS AUTORAIS NACIONAL PF"
+  },
+  {
+    "id": 92,
+    "codigo": "2.02.003",
+    "natureza": "DIREITOS AUTORAIS NACIONAL PJ"
+  },
+  {
+    "id": 93,
+    "codigo": "2.030.65",
+    "natureza": "DPVAT SEGURO"
+  },
+  {
+    "id": 94,
+    "codigo": "2.06.025",
+    "natureza": "DUPLA PARA EBOOK"
+  },
+  {
+    "id": 95,
+    "codigo": "DESP BANC",
+    "natureza": "Despesas Bancárias - CNAB"
+  },
+  {
+    "id": 96,
+    "codigo": "2.03.016",
+    "natureza": "ENERGIA ELETRICA"
+  },
+  {
+    "id": 97,
+    "codigo": "2.06.018",
+    "natureza": "ENSAIO DE LIVROS"
+  },
+  {
+    "id": 98,
+    "codigo": "2.20.001",
+    "natureza": "EQUIPAMENTOS TI/HARDWARES"
+  },
+  {
+    "id": 99,
+    "codigo": "2.01.008",
+    "natureza": "ESTAGIARIOS"
+  },
+  {
+    "id": 100,
+    "codigo": "2.01.020",
+    "natureza": "EXAMES PCMSO"
+  },
+  {
+    "id": 101,
+    "codigo": "TROCO",
+    "natureza": "Entrada de troco no Caixa"
+  },
+  {
+    "id": 102,
+    "codigo": "3.05",
+    "natureza": "FEIRAS"
+  },
+  {
+    "id": 103,
+    "codigo": "2.08.002",
+    "natureza": "FEIRAS / EVENTOS DE LANCAMENTO"
+  },
+  {
+    "id": 104,
+    "codigo": "2.01.009",
+    "natureza": "FERIAS"
+  },
+  {
+    "id": 105,
+    "codigo": "2.01.010",
+    "natureza": "FGTS"
+  },
+  {
+    "id": 106,
+    "codigo": "FINAN",
+    "natureza": "FINAN"
+  },
+  {
+    "id": 107,
+    "codigo": "2.01.011",
+    "natureza": "FOLHA DE PAGAMENTO"
+  },
+  {
+    "id": 108,
+    "codigo": "2.04.001",
+    "natureza": "FOLHAS DE MAQUINA"
+  },
+  {
+    "id": 109,
+    "codigo": "2.05.03",
+    "natureza": "FOTOLITO"
+  },
+  {
+    "id": 110,
+    "codigo": "2.07.001",
+    "natureza": "FRETES"
+  },
+  {
+    "id": 111,
+    "codigo": "2.03.017",
+    "natureza": "GAS"
+  },
+  {
+    "id": 112,
+    "codigo": "2.03.059",
+    "natureza": "GASOLINA/ALCOOL -COMBUSTIVEL"
+  },
+  {
+    "id": 113,
+    "codigo": "2.05.04",
+    "natureza": "GRAVACAO DE CLICHE"
+  },
+  {
+    "id": 114,
+    "codigo": "2.06.028",
+    "natureza": "GRAVACAO DE SONS"
+  },
+  {
+    "id": 115,
+    "codigo": "2.13.003",
+    "natureza": "ICMS"
+  },
+  {
+    "id": 116,
+    "codigo": "2.06.006",
+    "natureza": "ILUSTRACAO / FOTO / IMAGEM"
+  },
+  {
+    "id": 117,
+    "codigo": "2.05.12",
+    "natureza": "IMAGEM"
+  },
+  {
+    "id": 118,
+    "codigo": "2.13.004",
+    "natureza": "IMPOSTO DE IMPORTACAO"
+  },
+  {
+    "id": 119,
+    "codigo": "IRF",
+    "natureza": "IMPOSTO RENDA RETIDO NA FONTE"
+  },
+  {
+    "id": 120,
+    "codigo": "ISS",
+    "natureza": "IMPOSTO SOBRE SERVICOS"
+  },
+  {
+    "id": 121,
+    "codigo": "2.05.10",
+    "natureza": "IMPRESSAO GRAFICA CAMERON"
+  },
+  {
+    "id": 122,
+    "codigo": "2.06.096",
+    "natureza": "INDICE ONOMASTICO"
+  },
+  {
+    "id": 123,
+    "codigo": "2.06.019",
+    "natureza": "INDICE REMISSIVO"
+  },
+  {
+    "id": 124,
+    "codigo": "3.20",
+    "natureza": "INFL. LITERARIOS"
+  },
+  {
+    "id": 125,
+    "codigo": "2.01.012",
+    "natureza": "INSS"
+  },
+  {
+    "id": 126,
+    "codigo": "2.20",
+    "natureza": "INVEST. INFORMÁTICA"
+  },
+  {
+    "id": 127,
+    "codigo": "2.21",
+    "natureza": "INVEST. MÁQ. E EQUIP."
+  },
+  {
+    "id": 128,
+    "codigo": "2.22",
+    "natureza": "INVEST. MÓVEIS"
+  },
+  {
+    "id": 129,
+    "codigo": "2.15.002",
+    "natureza": "IOF"
+  },
+  {
+    "id": 130,
+    "codigo": "2.06.027",
+    "natureza": "IOF CAMBIO"
+  },
+  {
+    "id": 131,
+    "codigo": "2.02.006",
+    "natureza": "IOF CAMBIO D.A."
+  },
+  {
+    "id": 132,
+    "codigo": "2.13.006",
+    "natureza": "IPTU"
+  },
+  {
+    "id": 133,
+    "codigo": "2.13.007",
+    "natureza": "IPVA"
+  },
+  {
+    "id": 134,
+    "codigo": "2.13.008",
+    "natureza": "IRPJ"
+  },
+  {
+    "id": 135,
+    "codigo": "2.13.009",
+    "natureza": "IRRF"
+  },
+  {
+    "id": 136,
+    "codigo": "2.01.098",
+    "natureza": "IRRF / INSS"
+  },
+  {
+    "id": 137,
+    "codigo": "2.03.074",
+    "natureza": "IRRF E ISS"
+  },
+  {
+    "id": 138,
+    "codigo": "2.03.070",
+    "natureza": "ISBN"
+  },
+  {
+    "id": 139,
+    "codigo": "2.13.010",
+    "natureza": "ISS"
+  },
+  {
+    "id": 140,
+    "codigo": "2.25.001",
+    "natureza": "JUROS E ENCARGOS"
+  },
+  {
+    "id": 141,
+    "codigo": "2.03.018",
+    "natureza": "KILOMETRAGEM/ESTACIO/PEDAGIO"
+  },
+  {
+    "id": 142,
+    "codigo": "2.03.019",
+    "natureza": "LANCHES E REFEICOES"
+  },
+  {
+    "id": 143,
+    "codigo": "2.06.002",
+    "natureza": "LAYOUT / ARTE FINAL / CAPA"
+  },
+  {
+    "id": 144,
+    "codigo": "2.20.005",
+    "natureza": "LICENCAS"
+  },
+  {
+    "id": 145,
+    "codigo": "2.03.020",
+    "natureza": "LICENCAS/REGISTROS TI"
+  },
+  {
+    "id": 146,
+    "codigo": "2.03.021",
+    "natureza": "LIVROS/JORNAIS/REVISTAS"
+  },
+  {
+    "id": 147,
+    "codigo": "2.03.054",
+    "natureza": "LOCACAO SEM IMPOSTOS"
+  },
+  {
+    "id": 148,
+    "codigo": "2.03.022",
+    "natureza": "LOCACOES"
+  },
+  {
+    "id": 149,
+    "codigo": "3.07",
+    "natureza": "LOGISTICA CLIENTES DIVERSOS"
+  },
+  {
+    "id": 150,
+    "codigo": "2.03.024",
+    "natureza": "MANUT. VEICULOS / COMBUSTIVEL"
+  },
+  {
+    "id": 151,
+    "codigo": "2.03.023",
+    "natureza": "MANUTENCAO DE BENS"
+  },
+  {
+    "id": 152,
+    "codigo": "2.10.001",
+    "natureza": "MANUTENCAO DE MAQ. E EQUIP."
+  },
+  {
+    "id": 153,
+    "codigo": "2.03.025",
+    "natureza": "MANUTENCAO PREDIAL E INSTALACO"
+  },
+  {
+    "id": 153,
+    "codigo": "2.03.025",
+    "natureza": "MANUTENCAO PREDIAL E INSTALACO"
+  },
+  {
+    "id": 154,
+    "codigo": "2.03.056",
+    "natureza": "MANUTENCAO SEM RETENCOES"
+  },
+  {
+    "id": 155,
+    "codigo": "2.03.026",
+    "natureza": "MANUTENCAO/ATUALIZACAO TI"
+  },
+  {
+    "id": 156,
+    "codigo": "2.20.002",
+    "natureza": "MAQ. E EQUIP. DE INFORMATICA"
+  },
+  {
+    "id": 157,
+    "codigo": "2.21.001",
+    "natureza": "MAQUINAS E EQUIPAMENTOS"
+  },
+  {
+    "id": 158,
+    "codigo": "3.02",
+    "natureza": "MARKETPLACE AMAZON"
+  },
+  {
+    "id": 159,
+    "codigo": "3.06",
+    "natureza": "MARKETPLACE B2W"
+  },
+  {
+    "id": 160,
+    "codigo": "3.08",
+    "natureza": "MARKETPLACE MAGALU"
+  },
+  {
+    "id": 161,
+    "codigo": "3.01",
+    "natureza": "MARKETPLACE RECORD"
+  },
+  {
+    "id": 162,
+    "codigo": "2.11.001",
+    "natureza": "MATERIAL DE EMBALAGENS"
+  },
+  {
+    "id": 163,
+    "codigo": "2.03.027",
+    "natureza": "MATERIAL DE ESCRITORIO"
+  },
+  {
+    "id": 164,
+    "codigo": "2.03.028",
+    "natureza": "MATERIAL DE EXPEDIENTE"
+  },
+  {
+    "id": 165,
+    "codigo": "2.03.071",
+    "natureza": "MATERIAL P/MANUTENCAO E REPAR0"
+  },
+  {
+    "id": 166,
+    "codigo": "2.07.005",
+    "natureza": "MATERIAL PARA LOGISTICA"
+  },
+  {
+    "id": 167,
+    "codigo": "2.10.008",
+    "natureza": "MATERIAL PARA MANUTENCAO"
+  },
+  {
+    "id": 168,
+    "codigo": "2.03.058",
+    "natureza": "MATERIAL PARA OBRA"
+  },
+  {
+    "id": 169,
+    "codigo": "2.08.003",
+    "natureza": "MATERIAL PROMOCIONAL / BRINDES"
+  },
+  {
+    "id": 170,
+    "codigo": "2.09.001",
+    "natureza": "MATERIAS-PRIMAS"
+  },
+  {
+    "id": 171,
+    "codigo": "2.03.029",
+    "natureza": "MEDICINA E SEGURANÇA DO TRABAL"
+  },
+  {
+    "id": 172,
+    "codigo": "2.03.030",
+    "natureza": "MENSAL. E CONTRIB. ASSOC. LITE"
+  },
+  {
+    "id": 173,
+    "codigo": "3.03",
+    "natureza": "MKT DIRETO"
+  },
+  {
+    "id": 174,
+    "codigo": "3.14",
+    "natureza": "MKTPLACE ESTANTE"
+  },
+  {
+    "id": 175,
+    "codigo": "2.22.001",
+    "natureza": "MOVEIS E UTENSILIOS"
+  },
+  {
+    "id": 176,
+    "codigo": "NATMOVR",
+    "natureza": "Movimento bancário Receber"
+  },
+  {
+    "id": 177,
+    "codigo": "NATMOVP",
+    "natureza": "Movimento bancário pagar"
+  },
+  {
+    "id": 178,
+    "codigo": "NOTA DE CR",
+    "natureza": "NOTA DE CREDITO"
+  },
+  {
+    "id": 179,
+    "codigo": "NDF",
+    "natureza": "NOTA DE DEBITO AO FORNECEDOR"
+  },
+  {
+    "id": 180,
+    "codigo": "2.08.010",
+    "natureza": "NOTA DE DEBITO CLIENTE"
+  },
+  {
+    "id": 181,
+    "codigo": "NAT_FK",
+    "natureza": "Natureza FKS"
+  },
+  {
+    "id": 182,
+    "codigo": "3.09",
+    "natureza": "OPERACAO CULTURA"
+  },
+  {
+    "id": 183,
+    "codigo": "OUTROS",
+    "natureza": "OUTROS"
+  },
+  {
+    "id": 184,
+    "codigo": "2.19",
+    "natureza": "OUTROS PAGAMENTOS"
+  },
+  {
+    "id": 185,
+    "codigo": "2.19.001",
+    "natureza": "OUTROS PAGAMENTOS"
+  },
+  {
+    "id": 186,
+    "codigo": "1.05",
+    "natureza": "OUTROS RECEBIMENTOS"
+  },
+  {
+    "id": 187,
+    "codigo": "1.05.001",
+    "natureza": "OUTROS RECEBIMENTOS"
+  },
+  {
+    "id": 188,
+    "codigo": "2.17.004",
+    "natureza": "PAGAMENTO BERTRAND"
+  },
+  {
+    "id": 189,
+    "codigo": "2.17.003",
+    "natureza": "PAGAMENTO BEST SELLER"
+  },
+  {
+    "id": 190,
+    "codigo": "2.17.007",
+    "natureza": "PAGAMENTO CAMERON"
+  },
+  {
+    "id": 191,
+    "codigo": "PAGDIGITAL",
+    "natureza": "PAGAMENTO DIGITAL"
+  },
+  {
+    "id": 192,
+    "codigo": "2.17.001",
+    "natureza": "PAGAMENTO DIST. RECORD"
+  },
+  {
+    "id": 193,
+    "codigo": "2.17.009",
+    "natureza": "PAGAMENTO DLD"
+  },
+  {
+    "id": 194,
+    "codigo": "2.17.002",
+    "natureza": "PAGAMENTO EDIT. RECORD"
+  },
+  {
+    "id": 195,
+    "codigo": "2.17.008",
+    "natureza": "PAGAMENTO HARLEQUIM"
+  },
+  {
+    "id": 196,
+    "codigo": "2.17.005",
+    "natureza": "PAGAMENTO JOSE OLYMPIO"
+  },
+  {
+    "id": 197,
+    "codigo": "2.17.006",
+    "natureza": "PAGAMENTO NOVA FRONTEIRA"
+  },
+  {
+    "id": 198,
+    "codigo": "2.17.010",
+    "natureza": "PAGAMENTO PAZ E TERRA"
+  },
+  {
+    "id": 199,
+    "codigo": "2.17.006",
+    "natureza": "PAGAMENTO VERUS"
+  },
+  {
+    "id": 200,
+    "codigo": "2.17",
+    "natureza": "PAGAMENTOS INTERCOMPANY"
+  },
+  {
+    "id": 201,
+    "codigo": "2.03.031",
+    "natureza": "PAGAMENTOS JUDICIAIS"
+  },
+  {
+    "id": 202,
+    "codigo": "2.14",
+    "natureza": "PAGTO. COMISSÕES"
+  },
+  {
+    "id": 203,
+    "codigo": "2.06",
+    "natureza": "PAGTO. CUSTOS EDITORIAIS"
+  },
+  {
+    "id": 204,
+    "codigo": "2.23",
+    "natureza": "PAGTO. DE DIVIDENDOS"
+  },
+  {
+    "id": 205,
+    "codigo": "2.08",
+    "natureza": "PAGTO. DE MARKETING"
+  },
+  {
+    "id": 206,
+    "codigo": "2.03",
+    "natureza": "PAGTO. DESP. GERAIS"
+  },
+  {
+    "id": 207,
+    "codigo": "2.15",
+    "natureza": "PAGTO. DESPESAS BANCÁRIAS"
+  },
+  {
+    "id": 208,
+    "codigo": "2.25",
+    "natureza": "PAGTO. DESPESAS FINANCEIRAS"
+  },
+  {
+    "id": 209,
+    "codigo": "2.02",
+    "natureza": "PAGTO. DIREITOS AUTORAIS"
+  },
+  {
+    "id": 210,
+    "codigo": "2.23.004",
+    "natureza": "PAGTO. DIVIDENDOS BERTRAND"
+  },
+  {
+    "id": 211,
+    "codigo": "2.23.003",
+    "natureza": "PAGTO. DIVIDENDOS BEST SELLER"
+  },
+  {
+    "id": 212,
+    "codigo": "2.23.007",
+    "natureza": "PAGTO. DIVIDENDOS CAMERON"
+  },
+  {
+    "id": 213,
+    "codigo": "2.23.001",
+    "natureza": "PAGTO. DIVIDENDOS DIST. RECORD"
+  },
+  {
+    "id": 214,
+    "codigo": "2.23.009",
+    "natureza": "PAGTO. DIVIDENDOS DLD"
+  },
+  {
+    "id": 215,
+    "codigo": "2.23.002",
+    "natureza": "PAGTO. DIVIDENDOS EDIT. RECORD"
+  },
+  {
+    "id": 216,
+    "codigo": "2.23.008",
+    "natureza": "PAGTO. DIVIDENDOS HARLEQUIM"
+  },
+  {
+    "id": 217,
+    "codigo": "2.23.005",
+    "natureza": "PAGTO. DIVIDENDOS JOSE OLYMPIO"
+  },
+  {
+    "id": 218,
+    "codigo": "2.23.010",
+    "natureza": "PAGTO. DIVIDENDOS MAC GARDENS"
+  },
+  {
+    "id": 219,
+    "codigo": "2.23.011",
+    "natureza": "PAGTO. DIVIDENDOS SACM"
+  },
+  {
+    "id": 220,
+    "codigo": "2.23.006",
+    "natureza": "PAGTO. DIVIDENDOS VERUS"
+  },
+  {
+    "id": 221,
+    "codigo": "2.01",
+    "natureza": "PAGTO. FOLHA+ENCARGOS+BENEFÍCI"
+  },
+  {
+    "id": 222,
+    "codigo": "2.07",
+    "natureza": "PAGTO. FRETES"
+  },
+  {
+    "id": 223,
+    "codigo": "2.16",
+    "natureza": "PAGTO. GASTOS COM BIENAL"
+  },
+  {
+    "id": 224,
+    "codigo": "2.05",
+    "natureza": "PAGTO. GRÁFICA"
+  },
+  {
+    "id": 225,
+    "codigo": "2.13",
+    "natureza": "PAGTO. IMPOSTOS"
+  },
+  {
+    "id": 226,
+    "codigo": "2.10",
+    "natureza": "PAGTO. MANUT. GRÁFICA"
+  },
+  {
+    "id": 227,
+    "codigo": "2.11",
+    "natureza": "PAGTO. MATERIAL DE EMBALAGENS"
+  },
+  {
+    "id": 228,
+    "codigo": "2.09",
+    "natureza": "PAGTO. OUTROS INSUMOS"
+  },
+  {
+    "id": 229,
+    "codigo": "2.04",
+    "natureza": "PAGTO. PAPEL"
+  },
+  {
+    "id": 230,
+    "codigo": "2.04.002",
+    "natureza": "PAPEL DE IMPRESSAO"
+  },
+  {
+    "id": 231,
+    "codigo": "2.06.011",
+    "natureza": "PARECER LITERARIO"
+  },
+  {
+    "id": 232,
+    "codigo": "2.01.013",
+    "natureza": "PENSAO ALIMENTICIA"
+  },
+  {
+    "id": 233,
+    "codigo": "2.06.032",
+    "natureza": "PESQUISA"
+  },
+  {
+    "id": 234,
+    "codigo": "2.06.033",
+    "natureza": "PESQUISA DE MERCADO E OPNIAO P"
+  },
+  {
+    "id": 235,
+    "codigo": "2.13.011",
+    "natureza": "PIS"
+  },
+  {
+    "id": 236,
+    "codigo": "PIS",
+    "natureza": "PIS"
+  },
+  {
+    "id": 237,
+    "codigo": "PIX",
+    "natureza": "PIX"
+  },
+  {
+    "id": 238,
+    "codigo": "2.01.014",
+    "natureza": "PLR - PARTIC.LUCROS"
+  },
+  {
+    "id": 239,
+    "codigo": "2.06.010",
+    "natureza": "PREPARACAO DE ORIGINAIS"
+  },
+  {
+    "id": 240,
+    "codigo": "2.08.004",
+    "natureza": "PRODUCAO DE VIDEO"
+  },
+  {
+    "id": 241,
+    "codigo": "2.06.007",
+    "natureza": "PROJETO GRAFICO"
+  },
+  {
+    "id": 242,
+    "codigo": "2.06.020",
+    "natureza": "PROVA DIGITAL"
+  },
+  {
+    "id": 243,
+    "codigo": "2.08.005",
+    "natureza": "PUBLICIDADE"
+  },
+  {
+    "id": 244,
+    "codigo": "1.08",
+    "natureza": "RECEB. DIVIDENDOS"
+  },
+  {
+    "id": 245,
+    "codigo": "1.08.004",
+    "natureza": "RECEB. DIVIDENDOS BERTRAND"
+  },
+  {
+    "id": 246,
+    "codigo": "1.08.003",
+    "natureza": "RECEB. DIVIDENDOS BEST SELLER"
+  },
+  {
+    "id": 247,
+    "codigo": "1.08.007",
+    "natureza": "RECEB. DIVIDENDOS CAMERON"
+  },
+  {
+    "id": 248,
+    "codigo": "1.08.001",
+    "natureza": "RECEB. DIVIDENDOS DIST. RECORD"
+  },
+  {
+    "id": 249,
+    "codigo": "1.08.009",
+    "natureza": "RECEB. DIVIDENDOS DLD"
+  },
+  {
+    "id": 250,
+    "codigo": "1.08.002",
+    "natureza": "RECEB. DIVIDENDOS EDIT. RECORD"
+  },
+  {
+    "id": 251,
+    "codigo": "1.08.011",
+    "natureza": "RECEB. DIVIDENDOS GALERA"
+  },
+  {
+    "id": 252,
+    "codigo": "1.08.008",
+    "natureza": "RECEB. DIVIDENDOS HARLEQUIM"
+  },
+  {
+    "id": 253,
+    "codigo": "1.08.005",
+    "natureza": "RECEB. DIVIDENDOS JOSE OLYMPIO"
+  },
+  {
+    "id": 254,
+    "codigo": "1.08.010",
+    "natureza": "RECEB. DIVIDENDOS PAZ E TERRA"
+  },
+  {
+    "id": 255,
+    "codigo": "1.08.006",
+    "natureza": "RECEB. DIVIDENDOS VERUS"
+  },
+  {
+    "id": 256,
+    "codigo": "1.02",
+    "natureza": "RECEB. GOVERNO"
+  },
+  {
+    "id": 257,
+    "codigo": "1.01",
+    "natureza": "RECEB. MERCADO"
+  },
+  {
+    "id": 258,
+    "codigo": "RECEBIMENT",
+    "natureza": "RECEBIMENTO"
+  },
+  {
+    "id": 259,
+    "codigo": "1.03.004",
+    "natureza": "RECEBIMENTO BERTRAND"
+  },
+  {
+    "id": 260,
+    "codigo": "1.03.003",
+    "natureza": "RECEBIMENTO BEST SELLER"
+  },
+  {
+    "id": 261,
+    "codigo": "1.03.007",
+    "natureza": "RECEBIMENTO CAMERON"
+  },
+  {
+    "id": 262,
+    "codigo": "1.03.001",
+    "natureza": "RECEBIMENTO DIST. RECORD"
+  },
+  {
+    "id": 263,
+    "codigo": "1.03.009",
+    "natureza": "RECEBIMENTO DLD"
+  },
+  {
+    "id": 264,
+    "codigo": "1.03.002",
+    "natureza": "RECEBIMENTO EDIT. RECORD"
+  },
+  {
+    "id": 265,
+    "codigo": "1.03.015",
+    "natureza": "RECEBIMENTO GALERA"
+  },
+  {
+    "id": 266,
+    "codigo": "1.03.008",
+    "natureza": "RECEBIMENTO HARLEQUIM"
+  },
+  {
+    "id": 267,
+    "codigo": "1.03",
+    "natureza": "RECEBIMENTO INTERCOMPANY"
+  },
+  {
+    "id": 268,
+    "codigo": "1.03.005",
+    "natureza": "RECEBIMENTO JOSE OLYMPIO"
+  },
+  {
+    "id": 269,
+    "codigo": "1.03.010",
+    "natureza": "RECEBIMENTO PAZ E TERRA"
+  },
+  {
+    "id": 270,
+    "codigo": "1.03.006",
+    "natureza": "RECEBIMENTO VERUS"
+  },
+  {
+    "id": 271,
+    "codigo": "1.03.011",
+    "natureza": "RECEITA PROVENIENTE DE ALUGUEL"
+  },
+  {
+    "id": 272,
+    "codigo": "1.06",
+    "natureza": "RECEITAS FINANCEIRAS"
+  },
+  {
+    "id": 273,
+    "codigo": "1.06.001",
+    "natureza": "RECEITAS FINANCEIRAS"
+  },
+  {
+    "id": 274,
+    "codigo": "2.06.008",
+    "natureza": "REDACAO / PRODUCAO DE TEXTO"
+  },
+  {
+    "id": 275,
+    "codigo": "2.03.500",
+    "natureza": "REEMBOLSO DE DESPESAS"
+  },
+  {
+    "id": 276,
+    "codigo": "2.03.032",
+    "natureza": "REGISTRO DE DOMINIO"
+  },
+  {
+    "id": 277,
+    "codigo": "2.06.005",
+    "natureza": "RELEITURA"
+  },
+  {
+    "id": 278,
+    "codigo": "1.07",
+    "natureza": "RESGATE DE APLICACAO"
+  },
+  {
+    "id": 279,
+    "codigo": "1.07.001",
+    "natureza": "RESGATE DE APLICACAO"
+  },
+  {
+    "id": 280,
+    "codigo": "INSS",
+    "natureza": "RETENCAO P/ SEGURIDADE SOCIAL"
+  },
+  {
+    "id": 281,
+    "codigo": "2.06.012",
+    "natureza": "REVISAO TECNICA"
+  },
+  {
+    "id": 282,
+    "codigo": "2.01.015",
+    "natureza": "SEGURO DE VIDA"
+  },
+  {
+    "id": 283,
+    "codigo": "2.03.066",
+    "natureza": "SEGURO DPVAT"
+  },
+  {
+    "id": 284,
+    "codigo": "2.03.033",
+    "natureza": "SEGURO PATRIMONIAL"
+  },
+  {
+    "id": 285,
+    "codigo": "2.01.016",
+    "natureza": "SENAI"
+  },
+  {
+    "id": 286,
+    "codigo": "2.03.052",
+    "natureza": "SERV IR/INSS/PIS/COF/CSLL/ISS"
+  },
+  {
+    "id": 287,
+    "codigo": "2.06.099",
+    "natureza": "SERV. PJ SEM IMPOSTO"
+  },
+  {
+    "id": 288,
+    "codigo": "2.03.034",
+    "natureza": "SERV. REMOCAO DE RESIDUOS"
+  },
+  {
+    "id": 289,
+    "codigo": "2.03.072",
+    "natureza": "SERVICO  IR E INSS"
+  },
+  {
+    "id": 290,
+    "codigo": "2.08.011",
+    "natureza": "SERVICO C/ RET IR E ISS - MARK"
+  },
+  {
+    "id": 291,
+    "codigo": "2.03.051",
+    "natureza": "SERVICO COM INSS"
+  },
+  {
+    "id": 292,
+    "codigo": "2.08.009",
+    "natureza": "SERVICO COM RET ISS MARKETING"
+  },
+  {
+    "id": 293,
+    "codigo": "2.07.010",
+    "natureza": "SERVICO COM RETENCAO"
+  },
+  {
+    "id": 294,
+    "codigo": "2.07.002",
+    "natureza": "SERVICO DE ARMAZENAMENTO"
+  },
+  {
+    "id": 295,
+    "codigo": "2.03.065",
+    "natureza": "SERVICO DE LIMPESA SEM RETENCA"
+  },
+  {
+    "id": 296,
+    "codigo": "2.07.006",
+    "natureza": "SERVICO DE SHIRINK"
+  },
+  {
+    "id": 297,
+    "codigo": "2.07.004",
+    "natureza": "SERVICO DE TRANSPORTE"
+  },
+  {
+    "id": 298,
+    "codigo": "2.03.055",
+    "natureza": "SERVICO INFORMATICA"
+  },
+  {
+    "id": 299,
+    "codigo": "2.03.050",
+    "natureza": "SERVICO IR/ ISS/ PIS COFI CSLL"
+  },
+  {
+    "id": 300,
+    "codigo": "2.01.100",
+    "natureza": "SERVICO IR/PIS/COFINS/CSLL"
+  },
+  {
+    "id": 301,
+    "codigo": "2.07.011",
+    "natureza": "SERVICO IRRF"
+  },
+  {
+    "id": 302,
+    "codigo": "2.10.009",
+    "natureza": "SERVICO IRRF"
+  },
+  {
+    "id": 303,
+    "codigo": "2.05.11",
+    "natureza": "SERVICO IRRF"
+  },
+  {
+    "id": 304,
+    "codigo": "2.03.073",
+    "natureza": "SERVICO IRRF"
+  },
+  {
+    "id": 305,
+    "codigo": "2.01.099",
+    "natureza": "SERVICO IRRF"
+  },
+  {
+    "id": 306,
+    "codigo": "2.08.013",
+    "natureza": "SERVICO IRRF E INSS"
+  },
+  {
+    "id": 307,
+    "codigo": "2.08.012",
+    "natureza": "SERVICO IRRF; CSLL/PIS/COFINS"
+  },
+  {
+    "id": 308,
+    "codigo": "2.10.006",
+    "natureza": "SERVICO PESSOA FISICA-IR / ISS"
+  },
+  {
+    "id": 309,
+    "codigo": "2.06.031",
+    "natureza": "SERVICO TECNICO E PROFISSIONAL"
+  },
+  {
+    "id": 310,
+    "codigo": "2.06.030",
+    "natureza": "SERVICO TECNICO PROFISSIONAL"
+  },
+  {
+    "id": 311,
+    "codigo": "2.10.007",
+    "natureza": "SERVICOS DE ASSESSORIA"
+  },
+  {
+    "id": 312,
+    "codigo": "2.03.035",
+    "natureza": "SERVICOS DE ASSIST TECNICA"
+  },
+  {
+    "id": 313,
+    "codigo": "2.07.009",
+    "natureza": "SERVICOS DE COLETA E ENTREGA"
+  },
+  {
+    "id": 314,
+    "codigo": "2.10.002",
+    "natureza": "SERVICOS DE CONSULTORIA"
+  },
+  {
+    "id": 315,
+    "codigo": "2.03.036",
+    "natureza": "SERVICOS DE CONSULTORIA JURIDICA"
+  },
+  {
+    "id": 316,
+    "codigo": "2.03.037",
+    "natureza": "SERVICOS DE CONSULTORIA TECNICA"
+  },
+  {
+    "id": 317,
+    "codigo": "2.10.003",
+    "natureza": "SERVICOS DE CONTABILIDADE"
+  },
+  {
+    "id": 318,
+    "codigo": "2.07.008",
+    "natureza": "SERVICOS DE DESPACHANTE"
+  },
+  {
+    "id": 319,
+    "codigo": "2.07.007",
+    "natureza": "SERVICOS DE ENTREGA"
+  },
+  {
+    "id": 320,
+    "codigo": "2.03.038",
+    "natureza": "SERVICOS DE EXIBICAO CINEMATOGRA"
+  },
+  {
+    "id": 321,
+    "codigo": "2.06.018.001",
+    "natureza": "SERVICOS DE FILMAGEM"
+  },
+  {
+    "id": 322,
+    "codigo": "2.03.039",
+    "natureza": "SERVICOS DE IMPRESSAO"
+  },
+  {
+    "id": 323,
+    "codigo": "2.06.018.002",
+    "natureza": "SERVICOS DE PRODUCAO MUSICAL"
+  },
+  {
+    "id": 324,
+    "codigo": "2.10.004",
+    "natureza": "SERVICOS DE SEGURANCA"
+  },
+  {
+    "id": 325,
+    "codigo": "2.03.040",
+    "natureza": "SERVICOS DE SEGURO"
+  },
+  {
+    "id": 326,
+    "codigo": "2.03.041",
+    "natureza": "SERVICOS DE TELECOMUNICACOES"
+  },
+  {
+    "id": 327,
+    "codigo": "2.06.017",
+    "natureza": "SERVICOS EDITORIAIS"
+  },
+  {
+    "id": 328,
+    "codigo": "2.03.042",
+    "natureza": "SERVICOS EXPRESSOS"
+  },
+  {
+    "id": 329,
+    "codigo": "2.01.017",
+    "natureza": "SESI"
+  },
+  {
+    "id": 330,
+    "codigo": "2.03.043",
+    "natureza": "SINALIZACAO DE EMERGENCIA"
+  },
+  {
+    "id": 331,
+    "codigo": "2.03.044",
+    "natureza": "SINALIZACAO INTERNA/EXTERNA"
+  },
+  {
+    "id": 332,
+    "codigo": "2.03.045",
+    "natureza": "SOFTWARE"
+  },
+  {
+    "id": 333,
+    "codigo": "2.20.003",
+    "natureza": "SOFTWARES"
+  },
+  {
+    "id": 334,
+    "codigo": "2.03.046",
+    "natureza": "SOFTWARES/APLICATIVOS"
+  },
+  {
+    "id": 335,
+    "codigo": "2.03.047",
+    "natureza": "SOFTWARES/UTILITARIOS"
+  },
+  {
+    "id": 336,
+    "codigo": "2.03.048",
+    "natureza": "SOFTWARES/UTILITARIOS TI"
+  },
+  {
+    "id": 337,
+    "codigo": "2.05.13",
+    "natureza": "STICKER"
+  },
+  {
+    "id": 338,
+    "codigo": "2.05.14",
+    "natureza": "STICKER ALBUM"
+  },
+  {
+    "id": 339,
+    "codigo": "TBI",
+    "natureza": "TAXA BANCARIA INTERNACIONAL"
+  },
+  {
+    "id": 340,
+    "codigo": "2.03.049",
+    "natureza": "TAXA DE ALVARA"
+  },
+  {
+    "id": 341,
+    "codigo": "2.03.053",
+    "natureza": "TAXA DE ASSOCIACAO/INSCRICAO"
+  },
+  {
+    "id": 342,
+    "codigo": "2.02.007",
+    "natureza": "TAXA DE COMISSAO"
+  },
+  {
+    "id": 343,
+    "codigo": "2.03.075",
+    "natureza": "TAXA DE CONDOMINIO"
+  },
+  {
+    "id": 344,
+    "codigo": "2.02.004",
+    "natureza": "TAXA DE DEBITO"
+  },
+  {
+    "id": 345,
+    "codigo": "2.03.057",
+    "natureza": "TAXA DE DESPACHO"
+  },
+  {
+    "id": 346,
+    "codigo": "2.02.005",
+    "natureza": "TAXA DE DOC/TED"
+  },
+  {
+    "id": 347,
+    "codigo": "2.03.061",
+    "natureza": "TAXA DE ESTADIA"
+  },
+  {
+    "id": 348,
+    "codigo": "2.03.076",
+    "natureza": "TAXA DE FUNDO FIXO"
+  },
+  {
+    "id": 349,
+    "codigo": "2.03.060",
+    "natureza": "TAXA DE MENSALIDADE"
+  },
+  {
+    "id": 350,
+    "codigo": "2.02.003",
+    "natureza": "TAXA DE MANUTENCAO"
+  },
+  {
+    "id": 351,
+    "codigo": "2.02.002",
+    "natureza": "TAXA DE MOVIMENTACAO"
+  },
+  {
+    "id": 352,
+    "codigo": "2.03.062",
+    "natureza": "TAXA DE MULTA"
+  },
+  {
+    "id": 353,
+    "codigo": "2.03.077",
+    "natureza": "TAXA DE OCUPACAO"
+  },
+  {
+    "id": 354,
+    "codigo": "2.02.008",
+    "natureza": "TAXA DE PERMANENCIA"
+  },
+  {
+    "id": 355,
+    "codigo": "2.03.063",
+    "natureza": "TAXA DE SERVICOS"
+  },
+  {
+    "id": 356,
+    "codigo": "2.02.009",
+    "natureza": "TAXA DE TRANSFERENCIA"
+  },
+  {
+    "id": 357,
+    "codigo": "2.03.064",
+    "natureza": "TAXA DE UTILIZACAO"
+  },
+  {
+    "id": 358,
+    "codigo": "2.03.066.001",
+    "natureza": "TAXA DO SISCOMEX"
+  },
+  {
+    "id": 359,
+    "codigo": "2.03.067",
+    "natureza": "TAXAS AEROPORTUARIAS"
+  },
+  {
+    "id": 360,
+    "codigo": "2.03.068",
+    "natureza": "TAXAS DE AGENCIAMENTO"
+  },
+  {
+    "id": 361,
+    "codigo": "2.03.069",
+    "natureza": "TAXAS DE ADMINISTRACAO"
+  },
+  {
+    "id": 362,
+    "codigo": "2.03.078",
+    "natureza": "TAXAS DE BOMBEIRO"
+  },
+  {
+    "id": 363,
+    "codigo": "2.03.079",
+    "natureza": "TAXAS DE COLETA"
+  },
+  {
+    "id": 364,
+    "codigo": "2.03.080",
+    "natureza": "TAXAS DE ESGOTO"
+  },
+  {
+    "id": 365,
+    "codigo": "2.03.081",
+    "natureza": "TAXAS DE EXAME"
+  },
+  {
+    "id": 366,
+    "codigo": "2.03.082",
+    "natureza": "TAXAS DE INSCRICAO"
+  },
+  {
+    "id": 367,
+    "codigo": "2.03.083",
+    "natureza": "TAXAS DE INSCRICAO/ANUIDADES"
+  },
+  {
+    "id": 368,
+    "codigo": "2.03.084",
+    "natureza": "TAXAS DE MANUTENCAO"
+  },
+  {
+    "id": 369,
+    "codigo": "2.03.085",
+    "natureza": "TAXAS DE PESAGEM"
+  },
+  {
+    "id": 370,
+    "codigo": "2.03.086",
+    "natureza": "TAXAS DE REPROGRAFIA"
+  },
+  {
+    "id": 371,
+    "codigo": "2.03.087",
+    "natureza": "TAXAS DE RUA"
+  },
+  {
+    "id": 372,
+    "codigo": "2.03.088",
+    "natureza": "TAXAS DE UTILIDADES"
+  },
+  {
+    "id": 373,
+    "codigo": "2.03.089",
+    "natureza": "TAXAS DIVERSAS"
+  },
+  {
+    "id": 374,
+    "codigo": "2.03.090",
+    "natureza": "TAXAS E SERVICOS AMBIENTAIS"
+  },
+  {
+    "id": 375,
+    "codigo": "2.03.091",
+    "natureza": "TAXAS GERAIS"
+  },
+  {
+    "id": 376,
+    "codigo": "2.03.092",
+    "natureza": "TAXAS DE COLETA/RECOLHIMENTO"
+  },
+  {
+    "id": 377,
+    "codigo": "2.03.093",
+    "natureza": "TAXAS DE ESGOTAMENTO"
+  },
+  {
+    "id": 378,
+    "codigo": "2.03.094",
+    "natureza": "TAXAS DE LIMPEZA"
+  },
+  {
+    "id": 379,
+    "codigo": "2.03.095",
+    "natureza": "TAXAS DE VIGILANCIA"
+  },
+  {
+    "id": 380,
+    "codigo": "2.03.096",
+    "natureza": "TAXAS E TARIFAS"
+  },
+  {
+    "id": 381,
+    "codigo": "2.03.097",
+    "natureza": "TAXAS E TARIFAS BANCARIAS"
+  },
+  {
+    "id": 382,
+    "codigo": "2.03.098",
+    "natureza": "TAXAS E TRIBUTOS"
+  },
+  {
+    "id": 383,
+    "codigo": "2.03.099",
+    "natureza": "TAXAS E TRIBUTOS PAGOS"
+  },
+  {
+    "id": 384,
+    "codigo": "2.03.100",
+    "natureza": "TAXAS E OUTRAS DESPESAS BANCAR"
+  },
+  {
+    "id": 385,
+    "codigo": "2.06.029",
+    "natureza": "TELEX"
+  },
+  {
+    "id": 386,
+    "codigo": "2.20.004",
+    "natureza": "TERRENOS"
+  },
+  {
+    "id": 387,
+    "codigo": "2.02.001",
+    "natureza": "TITULOS"
+  },
+  {
+    "id": 388,
+    "codigo": "2.02.010",
+    "natureza": "TITULOS E VALORES"
+  },
+  {
+    "id": 389,
+    "codigo": "2.01.018",
+    "natureza": "TRANSPORTE - COLETIVO"
+  },
+  {
+    "id": 390,
+    "codigo": "2.01.019",
+    "natureza": "TRANSPORTE - LOTACAO"
+  },
+  {
+    "id": 391,
+    "codigo": "2.07.003",
+    "natureza": "TRANSPORTE DE MATERIAL"
+  },
+  {
+    "id": 392,
+    "codigo": "2.01.021",
+    "natureza": "TREINAMENTO"
+  },
+  {
+    "id": 393,
+    "codigo": "2.01.022",
+    "natureza": "VALE REFEICAO"
+  },
+  {
+    "id": 394,
+    "codigo": "2.01.023",
+    "natureza": "VALE TRANSPORTE"
+  },
+  {
+    "id": 395,
+    "codigo": "VARJ",
+    "natureza": "VARA JUDICIAL"
+  },
+  {
+    "id": 396,
+    "codigo": "VIG",
+    "natureza": "VIGILANCIA"
+  },
+  {
+    "id": 397,
+    "codigo": "NOME DO ÓRGÃO",
+    "natureza": "NOME DO ÓRGÃO"
+  },
+  {
+    "id": 398,
+    "codigo": "2.01.021",
+    "natureza": "UNIFORME"
+  },
+  {
+    "id": 399,
+    "codigo": "VALE",
+    "natureza": "VALE"
+  },
+  {
+    "id": 400,
+    "codigo": "2.01.022",
+    "natureza": "VALE ALIMENTACAO"
+  },
+  {
+    "id": 401,
+    "codigo": "2.01.023",
+    "natureza": "VALE COMBUSTIVEL"
+  },
+  {
+    "id": 402,
+    "codigo": "2.01.018",
+    "natureza": "VALE REFEICAO"
+  },
+  {
+    "id": 403,
+    "codigo": "2.01.019",
+    "natureza": "VALE TRANSPORTE"
+  },
+  {
+    "id": 404,
+    "codigo": "1.01.009",
+    "natureza": "VENDA DE ATIVO IMOBILIZADO"
+  },
+  {
+    "id": 405,
+    "codigo": "1.01.001",
+    "natureza": "VENDA DE LIVROS"
+  },
+  {
+    "id": 406,
+    "codigo": "1.01.002",
+    "natureza": "VENDA MARKETING DIRETO"
+  },
+  {
+    "id": 407,
+    "codigo": "1.01.004",
+    "natureza": "VENDAS A FUNCIONARIOS"
+  },
+  {
+    "id": 408,
+    "codigo": "1.01.003",
+    "natureza": "VENDAS BIENAL"
+  },
+  {
+    "id": 409,
+    "codigo": "1.02.002",
+    "natureza": "VENDAS GOVERNO ESTADUAL"
+  },
+  {
+    "id": 410,
+    "codigo": "1.02.001",
+    "natureza": "VENDAS GOVERNO FEDERAL"
+  },
+  {
+    "id": 411,
+    "codigo": "1.02.003",
+    "natureza": "VENDAS GOVERNO MUNICIPAL"
+  },
+  {
+    "id": 412,
+    "codigo": "3.12",
+    "natureza": "VIA VAREJO"
+  },
+  {
+    "id": 413,
+    "codigo": "2.03.047",
+    "natureza": "VIAGENS E ESTADIAS"
+  },
+  {
+    "id": 414,
+    "codigo": "2.03.062",
+    "natureza": "XEROX / COPIAS"
+  }
+]
 
-}
+//{
+//  "2.27": "INVEST. INSTALACOES",
+//  "2.27.001": "INVEST. INSTALACOES",
+//  "2.05.07": "+ MIXAGEM E POSTAGEM ECT",
+//  "2.01.001": "13 SALARIO",
+//  "2.05.02": "ACABAMENTO GRAFICO",
+//  "2.03.001": "ACESSORIOS TI",
+//  "2.06.003": "ADAPTACAO E EDITORACAO",
+//  "2.03.002": "ADIANTAMENTO - MAC GARDENS",
+//  "2.03.003": "ADIANTAMENTO - SACM",
+//  "2.03.048": "ADIANTAMENTOS DIVERSOS",
+//  "2.08.006": "AGENC. E INTERMED. DE NEGOCIOS",
+//  "2.03.004": "AGUA E ESGOTO",
+//  "2.01.002": "ALIMENTACAO COM EMPREGADOS",
+//  "2.07.009": "ALUGUEL - RECEITA",
+//  "2.07.003": "ALUGUEL PESSOA FISICA",
+//  "2.07.008": "ALUGUEL PESSOA JURIDICA",
+//  "2.07.007": "ALUGUEL SEM IMPOSTOS",
+//  "2.03.005": "ANALISE E PESQUISA FINANCEIRA",
+//  "2.06.021": "ANALISES E PESQUISAS",
+//  "2.24.001": "APLICACOES FINANCEIRAS",
+//  "2.24": "APLICAÇÕES FINANCEIRAS",
+//  "2.01.003": "ASEDR",
+//  "2.01.004": "ASSISTENCIA MEDICA",
+//  "2.03.006": "AUDITORIA",
+//  "2.01.005": "AUXILIO CRECHE",
+//  "2.01.006": "AUXILIO EDUCACAO",
+//  "2.08.001": "BANNER / IMPRESSOES (DANFE)",
+//  "2.08.014": "BANNER E IMPRESSOS ( NFS )",
+//  "2.06.022": "BATIDA DE EMENDAS",
+//  "2.06.023": "BATIDA EMENDAS + DECALQUE",
+//  "2.03.049": "BENS MOVEIS NAO ATIVAVEIS",
+//  "2.16.001": "BIENAL",
+//  "2.16.003": "BIENAL COM RET ISS",
+//  "2.16.004": "BIENAL IRRF",
+//  "2.16.002": "BIENAL SEM RETENCAO",
+//  "3.15": "BONIFICACAO COMERCIAL",
+//  "3.17": "BONIFICACAO EDITORIAL",
+//  "3.13": "BONIFICACAO IMPRENSA",
+//  "3.18": "BONIFICACAO INFLUENCIADORES",
+//  "3.11": "BONIFICACAO MKT E EVENTOS",
+//  "3.16": "BONIFICACAO PRESIDENCIA",
+//  "3.19": "BONIFICACAO SAC",
+//  "CARTAO": "CARTAO",
+//  "2.03.007": "CARTORIOS",
+//  "2.03.008": "CERTIDOES FEDERAL/ESTADUAL/MUN",
+//  "2.03.009": "CERTIFICACOES",
+//  "CHEQUE": "CHEQUE",
+//  "CIDE  8741": "CIDE - REMESSAS AO EXTERIOR -",
+//  "3.04": "CLUBE DA CARINA",
+//  "2.13.001": "COFINS",
+//  "COFINS": "COFINS",
+//  "2.14.003": "COMISSAO COM RET ISS",
+//  "2.14.004": "COMISSAO IR/ISS/PIS/COFINS/CSL",
+//  "2.14.001": "COMISSOES DE VENDEDORES",
+//  "COMISSOES": "COMISSOES DE VENDEDORES",
+//  "2.14.002": "COMISSOES SEM RETENCOES",
+//  "2.06.024": "COMPUTACAO GRAFICA E DESIGN",
+//  "2.03.060": "CONDOMINIO",
+//  "2.03.010": "CONDUCOES / TAXI",
+//  "2.03.011": "CONSERVACAO E LIMPEZA",
+//  "2.03.012": "CONSULTORIA",
+//  "2.03.013": "CONTRIB. SINDICAL - PATRONAL",
+//  "CSLL": "CONTRIB.S/LUCRO LIQUIDO",
+//  "INSS": "CONTRIB.S/LUCRO LIQUIDO",
+//  "2.01.007": "CONTRIBUICAO SINDICAL",
+//  "CONVENIO": "CONVENIO",
+//  "2.06.009": "CONVERSAO P/EPUB",
+//  "2.05.06": "CONVERSAP PARA DOCX E EPUB3",
+//  "2.03.014": "COPA / COZINHA / REFEITORIO",
+//  "2.03.015": "CORREIOS",
+//  "2.06.015": "COTEJO",
+//  "2.06.014": "COTEJO + BATIDA EMENDAS",
+//  "CREDITO": "CREDITO",
+//  "2.13.002": "CSLL",
+//  "2.06.013": "DECALQUE",
+//  "1.01.008": "DESCONTO POR BONUS PERFORMANCE",
+//  "1.01.007": "DESCONTO POR DESAGIO",
+//  "1.01.006": "DESCONTO POR REBATE",
+//  "1.01.005": "DESCONTO POR VPC",
+//  "2.15.001": "DESPESAS BANCARIAS",
+//  "2.02.005": "DESPESAS FINANCEIRA D.A.",
+//  "2.06.026": "DESPESAS FINANCEIRAS CAMBIOS",
+//  "DEV./TROCA": "DEV./TROCA",
+//  "2.06.004": "DIAGRAMACAO",
+//  "2.06.016": "DIGITACAO",
+//  "2.06.017": "DIGITALIZACAO",
+//  "DINHEIRO": "DINHEIRO",
+//  "3.10": "DIRECT CATAVENTO",
+//  "2.02.001": "DIREITOS AUTORAIS EXTERIOR",
+//  "2.02.004": "DIREITOS AUTORAIS NAC PF ISENT",
+//  "2.02.002": "DIREITOS AUTORAIS NACIONAL PF",
+//  "2.02.003": "DIREITOS AUTORAIS NACIONAL PJ",
+//  "2.030.65": "DPVAT SEGURO",
+//  "2.06.025": "DUPLA PARA EBOOK",
+//  "DESP BANC": "Despesas Bancárias - CNAB",
+//  "2.03.016": "ENERGIA ELETRICA",
+//  "2.06.018": "ENSAIO DE LIVROS",
+//  "2.20.001": "EQUIPAMENTOS TI/HARDWARES",
+//  "2.01.008": "ESTAGIARIOS",
+//  "2.01.020": "EXAMES PCMSO",
+//  "TROCO": "Entrada de troco no Caixa",
+//  "3.05": "FEIRAS",
+//  "2.08.002": "FEIRAS / EVENTOS DE LANCAMENTO",
+//  "2.01.009": "FERIAS",
+//  "2.01.010": "FGTS",
+//  "FINAN": "FINAN",
+//  "2.01.011": "FOLHA DE PAGAMENTO",
+//  "2.04.001": "FOLHAS DE MAQUINA",
+//  "2.05.03": "FOTOLITO",
+//  "2.07.001": "FRETES",
+//  "2.03.017": "GAS",
+//  "2.03.059": "GASOLINA/ALCOOL -COMBUSTIVEL",
+//  "2.05.04": "GRAVACAO DE CLICHE",
+//  "2.06.028": "GRAVACAO DE SONS",
+//  "2.13.003": "ICMS",
+//  "2.06.006": "ILUSTRACAO / FOTO / IMAGEM",
+//  "2.05.12": "IMAGEM",
+//  "2.13.004": "IMPOSTO DE IMPORTACAO",
+//  "IRF": "IMPOSTO RENDA RETIDO NA FONTE",
+//  "ISS": "IMPOSTO SOBRE SERVICOS",
+//  "2.05.10": "IMPRESSAO GRAFICA CAMERON",
+//  "2.06.096": "INDICE ONOMASTICO",
+//  "2.06.019": "INDICE REMISSIVO",
+//  "3.20": "INFL. LITERARIOS",
+//  "2.01.012": "INSS",
+//  "2.20": "INVEST. INFORMÁTICA",
+//  "2.21": "INVEST. MÁQ. E EQUIP.",
+//  "2.22": "INVEST. MÓVEIS",
+//  "2.15.002": "IOF",
+//  "2.06.027": "IOF CAMBIO",
+//  "2.02.006": "IOF CAMBIO D.A.",
+//  "2.13.006": "IPTU",
+//  "2.13.007": "IPVA",
+//  "2.13.008": "IRPJ",
+//  "2.13.009": "IRRF",
+//  "2.01.098": "IRRF / INSS",
+//  "2.03.074": "IRRF E ISS",
+//  "2.03.070": "ISBN",
+//  "2.13.010": "ISS",
+//  "2.25.001": "JUROS E ENCARGOS",
+//  "2.03.018": "KILOMETRAGEM/ESTACIO/PEDAGIO",
+//  "2.03.019": "LANCHES E REFEICOES",
+//  "2.06.002": "LAYOUT / ARTE FINAL / CAPA",
+//  "2.20.005": "LICENCAS",
+//  "2.03.020": "LICENCAS/REGISTROS TI",
+//  "2.03.021": "LIVROS/JORNAIS/REVISTAS",
+//  "2.03.054": "LOCACAO SEM IMPOSTOS",
+//  "2.03.022": "LOCACOES",
+//  "3.07": "LOGISTICA CLIENTES DIVERSOS",
+//  "2.03.024": "MANUT. VEICULOS / COMBUSTIVEL",
+//  "2.03.023": "MANUTENCAO DE BENS",
+//  "2.10.001": "MANUTENCAO DE MAQ. E EQUIP.",
+//  "2.03.025": "MANUTENCAO PREDIAL E INSTALACO",
+//  "2.03.056": "MANUTENCAO SEM RETENCOES",
+//  "2.03.026": "MANUTENCAO/ATUALIZACAO TI",
+//  "2.20.002": "MAQ. E EQUIP. DE INFORMATICA",
+//  "2.21.001": "MAQUINAS E EQUIPAMENTOS",
+//  "3.02": "MARKETPLACE AMAZON",
+//  "3.06": "MARKETPLACE B2W",
+//  "3.08": "MARKETPLACE MAGALU",
+//  "3.01": "MARKETPLACE RECORD",
+//  "2.11.001": "MATERIAL DE EMBALAGENS",
+//  "2.03.027": "MATERIAL DE ESCRITORIO",
+//  "2.03.028": "MATERIAL DE EXPEDIENTE",
+//  "2.03.071": "MATERIAL P/MANUTENCAO E REPAR0",
+//  "2.07.005": "MATERIAL PARA LOGISTICA",
+//  "2.10.008": "MATERIAL PARA MANUTENCAO",
+//  "2.03.058": "MATERIAL PARA OBRA",
+//  "2.08.003": "MATERIAL PROMOCIONAL / BRINDES",
+//  "2.09.001": "MATERIAS-PRIMAS",
+//  "2.03.029": "MEDICINA E SEGURANÇA DO TRABAL",
+//  "2.03.030": "MENSAL. E CONTRIB. ASSOC. LITE",
+//  "3.03": "MKT DIRETO",
+//  "3.14": "MKTPLACE ESTANTE",
+//  "2.22.001": "MOVEIS E UTENSILIOS",
+//  "NATMOVR": "Movimento bancário Receber",
+//  "NATMOVP": "Movimento bancário pagar",
+//  "NOTA DE CR": "NOTA DE CREDITO",
+//  "NDF": "NOTA DE DEBITO AO FORNECEDOR",
+//  "2.08.010": "NOTA DE DEBITO CLIENTE",
+//  "NAT_FK": "Natureza FKS",
+//  "3.09": "OPERACAO CULTURA",
+//  "OUTROS": "OUTROS",
+//  "2.19": "OUTROS PAGAMENTOS",
+//  "2.19.001": "OUTROS PAGAMENTOS",
+//  "1.05": "OUTROS RECEBIMENTOS",
+//  "1.05.001": "OUTROS RECEBIMENTOS",
+//  "2.17.004": "PAGAMENTO BERTRAND",
+//  "2.17.003": "PAGAMENTO BEST SELLER",
+//  "2.17.007": "PAGAMENTO CAMERON",
+//  "PAGDIGITAL": "PAGAMENTO DIGITAL",
+//  "2.17.001": "PAGAMENTO DIST. RECORD",
+//  "2.17.009": "PAGAMENTO DLD",
+//  "2.17.002": "PAGAMENTO EDIT. RECORD",
+//  "2.17.008": "PAGAMENTO HARLEQUIM",
+//  "2.17.005": "PAGAMENTO JOSE OLYMPIO",
+//  "2.17.010": "PAGAMENTO PAZ E TERRA",
+//  "2.17.006": "PAGAMENTO VERUS",
+//  "2.17": "PAGAMENTOS INTERCOMPANY",
+//  "2.03.031": "PAGAMENTOS JUDICIAIS",
+//  "2.14": "PAGTO. COMISSÕES",
+//  "2.06": "PAGTO. CUSTOS EDITORIAIS",
+//  "2.23": "PAGTO. DE DIVIDENDOS",
+//  "2.08": "PAGTO. DE MARKETING",
+//  "2.03": "PAGTO. DESP. GERAIS",
+//  "2.15": "PAGTO. DESPESAS BANCÁRIAS",
+//  "2.25": "PAGTO. DESPESAS FINANCEIRAS",
+//  "2.02": "PAGTO. DIREITOS AUTORAIS",
+//  "2.23.004": "PAGTO. DIVIDENDOS BERTRAND",
+//  "2.23.003": "PAGTO. DIVIDENDOS BEST SELLER",
+//  "2.23.007": "PAGTO. DIVIDENDOS CAMERON",
+//  "2.23.001": "PAGTO. DIVIDENDOS DIST. RECORD",
+//  "2.23.009": "PAGTO. DIVIDENDOS DLD",
+//  "2.23.002": "PAGTO. DIVIDENDOS EDIT. RECORD",
+//  "2.23.008": "PAGTO. DIVIDENDOS HARLEQUIM",
+//  "2.23.005": "PAGTO. DIVIDENDOS JOSE OLYMPIO",
+//  "2.23.010": "PAGTO. DIVIDENDOS MAC GARDENS",
+//  "2.23.011": "PAGTO. DIVIDENDOS SACM",
+//  "2.23.006": "PAGTO. DIVIDENDOS VERUS",
+//  "2.01": "PAGTO. FOLHA+ENCARGOS+BENEFÍCI",
+//  "2.07": "PAGTO. FRETES",
+//  "2.16": "PAGTO. GASTOS COM BIENAL",
+//  "2.05": "PAGTO. GRÁFICA",
+//  "2.13": "PAGTO. IMPOSTOS",
+//  "2.10": "PAGTO. MANUT. GRÁFICA",
+//  "2.11": "PAGTO. MATERIAL DE EMBALAGENS",
+//  "2.09": "PAGTO. OUTROS INSUMOS",
+//  "2.04": "PAGTO. PAPEL",
+//  "2.04.002": "PAPEL DE IMPRESSAO",
+//  "2.06.011": "PARECER LITERARIO",
+//  "2.01.013": "PENSAO ALIMENTICIA",
+//  "2.06.032": "PESQUISA",
+//  "2.06.033": "PESQUISA DE MERCADO E OPNIAO P",
+//  "2.13.011": "PIS",
+//  "PIS": "PIS",
+//  "PIX": "PIX",
+//  "2.01.014": "PLR - PARTIC.LUCROS",
+//  "2.06.010": "PREPARACAO DE ORIGINAIS",
+//  "2.08.004": "PRODUCAO DE VIDEO",
+//  "2.06.007": "PROJETO GRAFICO",
+//  "2.06.020": "PROVA DIGITAL",
+//  "2.08.005": "PUBLICIDADE",
+//  "1.08": "RECEB. DIVIDENDOS",
+//  "1.08.004": "RECEB. DIVIDENDOS BERTRAND",
+//  "1.08.003": "RECEB. DIVIDENDOS BEST SELLER",
+//  "1.08.007": "RECEB. DIVIDENDOS CAMERON",
+//  "1.08.001": "RECEB. DIVIDENDOS DIST. RECORD",
+//  "1.08.009": "RECEB. DIVIDENDOS DLD",
+//  "1.08.002": "RECEB. DIVIDENDOS EDIT. RECORD",
+//  "1.08.011": "RECEB. DIVIDENDOS GALERA",
+//  "1.08.008": "RECEB. DIVIDENDOS HARLEQUIM",
+//  "1.08.005": "RECEB. DIVIDENDOS JOSE OLYMPIO",
+//  "1.08.010": "RECEB. DIVIDENDOS PAZ E TERRA",
+//  "1.08.006": "RECEB. DIVIDENDOS VERUS",
+//  "1.02": "RECEB. GOVERNO",
+//  "1.01": "RECEB. MERCADO",
+//  "RECEBIMENT": "RECEBIMENTO",
+//  "1.03.004": "RECEBIMENTO BERTRAND",
+//  "1.03.003": "RECEBIMENTO BEST SELLER",
+//  "1.03.007": "RECEBIMENTO CAMERON",
+//  "1.03.001": "RECEBIMENTO DIST. RECORD",
+//  "1.03.009": "RECEBIMENTO DLD",
+//  "1.03.002": "RECEBIMENTO EDIT. RECORD",
+//  "1.03.015": "RECEBIMENTO GALERA",
+//  "1.03.008": "RECEBIMENTO HARLEQUIM",
+//  "1.03": "RECEBIMENTO INTERCOMPANY",
+//  "1.03.005": "RECEBIMENTO JOSE OLYMPIO",
+//  "1.03.010": "RECEBIMENTO PAZ E TERRA",
+//  "1.03.006": "RECEBIMENTO VERUS",
+//  "1.03.011": "RECEITA PROVENIENTE DE ALUGUEL",
+//  "1.06": "RECEITAS FINANCEIRAS",
+//  "1.06.001": "RECEITAS FINANCEIRAS",
+//  "2.06.008": "REDACAO / PRODUCAO DE TEXTO",
+//  "2.03.500": "REEMBOLSO DE DESPESAS",
+//  "2.03.032": "REGISTRO DE DOMINIO",
+//  "2.06.005": "RELEITURA",
+//  "1.07": "RESGATE DE APLICACAO",
+//  "1.07.001": "RESGATE DE APLICACAO",
+//  "INSS": "RETENCAO P/ SEGURIDADE SOCIAL",
+//  "2.06.012": "REVISAO TECNICA",
+//  "2.01.015": "SEGURO DE VIDA",
+//  "2.03.066": "SEGURO DPVAT",
+//  "2.03.033": "SEGURO PATRIMONIAL",
+//  "2.01.016": "SENAI",
+//  "2.03.052": "SERV IR/INSS/PIS/COF/CSLL/ISS",
+//  "2.06.099": "SERV. PJ SEM IMPOSTO",
+//  "2.03.034": "SERV. REMOCAO DE RESIDUOS",
+//  "2.03.072": "SERVICO  IR E INSS",
+//  "2.08.011": "SERVICO C/ RET IR E ISS - MARK",
+//  "2.03.051": "SERVICO COM INSS",
+//  "2.08.009": "SERVICO COM RET ISS MARKETING",
+//  "2.07.010": "SERVICO COM RETENCAO",
+//  "2.07.002": "SERVICO DE ARMAZENAMENTO",
+//  "2.03.065": "SERVICO DE LIMPESA SEM RETENCA",
+//  "2.07.006": "SERVICO DE SHIRINK",
+//  "2.07.004": "SERVICO DE TRANSPORTE",
+//  "2.03.055": "SERVICO INFORMATICA",
+//  "2.03.050": "SERVICO IR/ ISS/ PIS COFI CSLL",
+//  "2.01.100": "SERVICO IR/PIS/COFINS/CSLL",
+//  "2.07.011": "SERVICO IRRF",
+//  "2.10.009": "SERVICO IRRF",
+//  "2.05.11": "SERVICO IRRF",
+//  "2.03.073": "SERVICO IRRF",
+//  "2.01.099": "SERVICO IRRF",
+//  "2.08.013": "SERVICO IRRF E INSS",
+//  "2.08.012": "SERVICO IRRF; CSLL/PIS/COFINS",
+//  "2.10.006": "SERVICO PESSOA FISICA-IR / ISS",
+//  "2.06.031": "SERVICO TECNICO E PROFISSIONAL",
+//  "2.06.030": "SERVICO TECNICO PROFISSIONAL",
+//  "2.10.007": "SERVICOS DE ASSESSORIA",
+//  "2.03.035": "SERVICOS DE ASSIST TECNICA",
+//  "2.07.009": "SERVICOS DE COLETA E ENTREGA",
+//  "2.10.002": "SERVICOS DE CONSULTORIA",
+//  "2.03.036": "SERVICOS DE CONSULTORIA JURIDICA",
+//  "2.03.037": "SERVICOS DE CONSULTORIA TECNICA",
+//  "2.10.003": "SERVICOS DE CONTABILIDADE",
+//  "2.07.008": "SERVICOS DE DESPACHANTE",
+//  "2.07.007": "SERVICOS DE ENTREGA",
+//  "2.03.038": "SERVICOS DE EXIBICAO CINEMATOGRA",
+//  "2.06.018.001": "SERVICOS DE FILMAGEM",
+//  "2.03.039": "SERVICOS DE IMPRESSAO",
+//  "2.06.018.002": "SERVICOS DE PRODUCAO MUSICAL",
+//  "2.10.004": "SERVICOS DE SEGURANCA",
+//  "2.03.040": "SERVICOS DE SEGURO",
+//  "2.03.041": "SERVICOS DE TELECOMUNICACOES",
+//  "2.06.017": "SERVICOS EDITORIAIS",
+//  "2.03.042": "SERVICOS EXPRESSOS",
+//  "2.01.017": "SESI",
+//  "2.03.043": "SINALIZACAO DE EMERGENCIA",
+//  "2.03.044": "SINALIZACAO INTERNA/EXTERNA",
+//  "2.03.045": "SOFTWARE",
+//  "2.20.003": "SOFTWARES",
+//  "2.03.046": "SOFTWARES/APLICATIVOS",
+//  "2.03.047": "SOFTWARES/UTILITARIOS",
+//  "2.03.048": "SOFTWARES/UTILITARIOS TI",
+//  "2.05.13": "STICKER",
+//  "2.05.14": "STICKER ALBUM",
+//  "TBI": "TAXA BANCARIA INTERNACIONAL",
+//  "2.03.049": "TAXA DE ALVARA",
+//  "2.03.053": "TAXA DE ASSOCIACAO/INSCRICAO",
+//  "2.02.007": "TAXA DE COMISSAO",
+//  "2.03.075": "TAXA DE CONDOMINIO",
+//  "2.02.004": "TAXA DE DEBITO",
+//  "2.03.057": "TAXA DE DESPACHO",
+//  "2.02.005": "TAXA DE DOC/TED",
+//  "2.03.061": "TAXA DE ESTADIA",
+//  "2.03.076": "TAXA DE FUNDO FIXO",
+//  "2.03.060": "TAXA DE MENSALIDADE",
+//  "2.02.003": "TAXA DE MANUTENCAO",
+//  "2.02.002": "TAXA DE MOVIMENTACAO",
+//  "2.03.062": "TAXA DE MULTA",
+//  "2.03.077": "TAXA DE OCUPACAO",
+//  "2.02.008": "TAXA DE PERMANENCIA",
+//  "2.03.063": "TAXA DE SERVICOS",
+//  "2.02.009": "TAXA DE TRANSFERENCIA",
+//  "2.03.064": "TAXA DE UTILIZACAO",
+//  "2.03.066.001": "TAXA DO SISCOMEX",
+//  "2.03.067": "TAXAS AEROPORTUARIAS",
+//  "2.03.068": "TAXAS DE AGENCIAMENTO",
+//  "2.03.069": "TAXAS DE ADMINISTRACAO",
+//  "2.03.078": "TAXAS DE BOMBEIRO",
+//  "2.03.079": "TAXAS DE COLETA",
+//  "2.03.080": "TAXAS DE ESGOTO",
+//  "2.03.081": "TAXAS DE EXAME",
+//  "2.03.082": "TAXAS DE INSCRICAO",
+//  "2.03.083": "TAXAS DE INSCRICAO/ANUIDADES",
+//  "2.03.084": "TAXAS DE MANUTENCAO",
+//  "2.03.085": "TAXAS DE PESAGEM",
+//  "2.03.086": "TAXAS DE REPROGRAFIA",
+//  "2.03.087": "TAXAS DE RUA",
+//  "2.03.088": "TAXAS DE UTILIDADES",
+//  "2.03.089": "TAXAS DIVERSAS",
+//  "2.03.090": "TAXAS E SERVICOS AMBIENTAIS",
+//  "2.03.091": "TAXAS GERAIS",
+//  "2.03.092": "TAXAS DE COLETA/RECOLHIMENTO",
+//  "2.03.093": "TAXAS DE ESGOTAMENTO",
+//  "2.03.094": "TAXAS DE LIMPEZA",
+//  "2.03.095": "TAXAS DE VIGILANCIA",
+//  "2.03.096": "TAXAS E TARIFAS",
+//  "2.03.097": "TAXAS E TARIFAS BANCARIAS",
+//  "2.03.098": "TAXAS E TRIBUTOS",
+//  "2.03.099": "TAXAS E TRIBUTOS PAGOS",
+//  "2.03.100": "TAXAS E OUTRAS DESPESAS BANCAR",
+//  "2.06.029": "TELEX",
+//  "2.20.004": "TERRENOS",
+//  "2.02.001": "TITULOS",
+//  "2.02.010": "TITULOS E VALORES",
+//  "2.01.018": "TRANSPORTE - COLETIVO",
+//  "2.01.019": "TRANSPORTE - LOTACAO",
+//  "2.07.003": "TRANSPORTE DE MATERIAL",
+//  "2.01.021": "TREINAMENTO",
+//  "2.01.022": "VALE REFEICAO",
+//  "2.01.023": "VALE TRANSPORTE",
+//  "VARJ": "VARA JUDICIAL",
+//  "VIG": "VIGILANCIA",
+//  "NOME DO ÓRGÃO": "NOME DO ÓRGÃO",
+//  "2.01.021": "UNIFORME",
+//  "VALE": "VALE",
+//  "2.01.022": "VALE ALIMENTACAO",
+//  "2.01.023": "VALE COMBUSTIVEL",
+//  "2.01.018": "VALE REFEICAO",
+//  "2.01.019": "VALE TRANSPORTE",
+//  "1.01.009": "VENDA DE ATIVO IMOBILIZADO",
+//  "1.01.001": "VENDA DE LIVROS",
+//  "1.01.002": "VENDA MARKETING DIRETO",
+//  "1.01.004": "VENDAS A FUNCIONARIOS",
+//  "1.01.003": "VENDAS BIENAL",
+//  "1.02.002": "VENDAS GOVERNO ESTADUAL",
+//  "1.02.001": "VENDAS GOVERNO FEDERAL",
+//  "1.02.003": "VENDAS GOVERNO MUNICIPAL",
+//  "3.12": "VIA VAREJO",
+//  "2.03.047": "VIAGENS E ESTADIAS",
+//  "2.03.062": "XEROX / COPIAS"
+
+//}
+
